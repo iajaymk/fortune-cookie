@@ -1,0 +1,7845 @@
+{
+  "total": 1960,
+  "fortunes": [
+    {
+      "id": 1,
+      "text": "Good things take time today."
+    },
+    {
+      "id": 2,
+      "text": "Good things take time over time."
+    },
+    {
+      "id": 3,
+      "text": "Good things take time when it matters."
+    },
+    {
+      "id": 4,
+      "text": "Good things take time in unexpected ways."
+    },
+    {
+      "id": 5,
+      "text": "Good things take time more than you expect."
+    },
+    {
+      "id": 6,
+      "text": "Good things take time sooner than planned."
+    },
+    {
+      "id": 7,
+      "text": "Good things take time with practice."
+    },
+    {
+      "id": 8,
+      "text": "Good things take time without shortcuts."
+    },
+    {
+      "id": 9,
+      "text": "Good things take time when you stay consistent."
+    },
+    {
+      "id": 10,
+      "text": "Good things take time when you stay patient."
+    },
+    {
+      "id": 11,
+      "text": "Good things take time with clarity."
+    },
+    {
+      "id": 12,
+      "text": "Good things take time with intention."
+    },
+    {
+      "id": 13,
+      "text": "Good things take time through discipline."
+    },
+    {
+      "id": 14,
+      "text": "Good things take time when you least expect it."
+    },
+    {
+      "id": 15,
+      "text": "Good things take time when you stay focused."
+    },
+    {
+      "id": 16,
+      "text": "Good things take time with steady effort."
+    },
+    {
+      "id": 17,
+      "text": "Good things take time without rush."
+    },
+    {
+      "id": 18,
+      "text": "Good things take time through learning."
+    },
+    {
+      "id": 19,
+      "text": "Good things take time when you commit."
+    },
+    {
+      "id": 20,
+      "text": "Good things take time with calm confidence."
+    },
+    {
+      "id": 21,
+      "text": "Good things take time step by step."
+    },
+    {
+      "id": 22,
+      "text": "Good things take time with repetition."
+    },
+    {
+      "id": 23,
+      "text": "Good things take time when aligned."
+    },
+    {
+      "id": 24,
+      "text": "Good things take time through consistency."
+    },
+    {
+      "id": 25,
+      "text": "Good things take time with awareness."
+    },
+    {
+      "id": 26,
+      "text": "Good things take time when simplified."
+    },
+    {
+      "id": 27,
+      "text": "Good things take time over the long run."
+    },
+    {
+      "id": 28,
+      "text": "Good things take time with deliberate action."
+    },
+    {
+      "id": 29,
+      "text": "Good things take time through focus."
+    },
+    {
+      "id": 30,
+      "text": "Good things take time with restraint."
+    },
+    {
+      "id": 31,
+      "text": "Good things take time with balance."
+    },
+    {
+      "id": 32,
+      "text": "Good things take time when repeated."
+    },
+    {
+      "id": 33,
+      "text": "Good things take time through effort."
+    },
+    {
+      "id": 34,
+      "text": "Good things take time when practiced."
+    },
+    {
+      "id": 35,
+      "text": "Good things take time with patience."
+    },
+    {
+      "id": 36,
+      "text": "Good things take time with intention daily."
+    },
+    {
+      "id": 37,
+      "text": "Good things take time over weeks."
+    },
+    {
+      "id": 38,
+      "text": "Good things take time over months."
+    },
+    {
+      "id": 39,
+      "text": "Good things take time over years."
+    },
+    {
+      "id": 40,
+      "text": "Good things take time with discipline daily."
+    },
+    {
+      "id": 41,
+      "text": "Good things take time when prioritized."
+    },
+    {
+      "id": 42,
+      "text": "Good things take time when refined."
+    },
+    {
+      "id": 43,
+      "text": "Good things take time when maintained."
+    },
+    {
+      "id": 44,
+      "text": "Good things take time with commitment."
+    },
+    {
+      "id": 45,
+      "text": "Good things take time with thoughtful action."
+    },
+    {
+      "id": 46,
+      "text": "Good things take time with clarity of purpose."
+    },
+    {
+      "id": 47,
+      "text": "Good things take time without distraction."
+    },
+    {
+      "id": 48,
+      "text": "Good things take time with steady discipline."
+    },
+    {
+      "id": 49,
+      "text": "Good things take time with self-trust."
+    },
+    {
+      "id": 50,
+      "text": "Patience reveals results today."
+    },
+    {
+      "id": 51,
+      "text": "Patience reveals results over time."
+    },
+    {
+      "id": 52,
+      "text": "Patience reveals results when it matters."
+    },
+    {
+      "id": 53,
+      "text": "Patience reveals results in unexpected ways."
+    },
+    {
+      "id": 54,
+      "text": "Patience reveals results more than you expect."
+    },
+    {
+      "id": 55,
+      "text": "Patience reveals results sooner than planned."
+    },
+    {
+      "id": 56,
+      "text": "Patience reveals results with practice."
+    },
+    {
+      "id": 57,
+      "text": "Patience reveals results without shortcuts."
+    },
+    {
+      "id": 58,
+      "text": "Patience reveals results when you stay consistent."
+    },
+    {
+      "id": 59,
+      "text": "Patience reveals results when you stay patient."
+    },
+    {
+      "id": 60,
+      "text": "Patience reveals results with clarity."
+    },
+    {
+      "id": 61,
+      "text": "Patience reveals results with intention."
+    },
+    {
+      "id": 62,
+      "text": "Patience reveals results through discipline."
+    },
+    {
+      "id": 63,
+      "text": "Patience reveals results when you least expect it."
+    },
+    {
+      "id": 64,
+      "text": "Patience reveals results when you stay focused."
+    },
+    {
+      "id": 65,
+      "text": "Patience reveals results with steady effort."
+    },
+    {
+      "id": 66,
+      "text": "Patience reveals results without rush."
+    },
+    {
+      "id": 67,
+      "text": "Patience reveals results through learning."
+    },
+    {
+      "id": 68,
+      "text": "Patience reveals results when you commit."
+    },
+    {
+      "id": 69,
+      "text": "Patience reveals results with calm confidence."
+    },
+    {
+      "id": 70,
+      "text": "Patience reveals results step by step."
+    },
+    {
+      "id": 71,
+      "text": "Patience reveals results with repetition."
+    },
+    {
+      "id": 72,
+      "text": "Patience reveals results when aligned."
+    },
+    {
+      "id": 73,
+      "text": "Patience reveals results through consistency."
+    },
+    {
+      "id": 74,
+      "text": "Patience reveals results with awareness."
+    },
+    {
+      "id": 75,
+      "text": "Patience reveals results when simplified."
+    },
+    {
+      "id": 76,
+      "text": "Patience reveals results over the long run."
+    },
+    {
+      "id": 77,
+      "text": "Patience reveals results with deliberate action."
+    },
+    {
+      "id": 78,
+      "text": "Patience reveals results through focus."
+    },
+    {
+      "id": 79,
+      "text": "Patience reveals results with restraint."
+    },
+    {
+      "id": 80,
+      "text": "Patience reveals results with balance."
+    },
+    {
+      "id": 81,
+      "text": "Patience reveals results when repeated."
+    },
+    {
+      "id": 82,
+      "text": "Patience reveals results through effort."
+    },
+    {
+      "id": 83,
+      "text": "Patience reveals results when practiced."
+    },
+    {
+      "id": 84,
+      "text": "Patience reveals results with patience."
+    },
+    {
+      "id": 85,
+      "text": "Patience reveals results with intention daily."
+    },
+    {
+      "id": 86,
+      "text": "Patience reveals results over weeks."
+    },
+    {
+      "id": 87,
+      "text": "Patience reveals results over months."
+    },
+    {
+      "id": 88,
+      "text": "Patience reveals results over years."
+    },
+    {
+      "id": 89,
+      "text": "Patience reveals results with discipline daily."
+    },
+    {
+      "id": 90,
+      "text": "Patience reveals results when prioritized."
+    },
+    {
+      "id": 91,
+      "text": "Patience reveals results when refined."
+    },
+    {
+      "id": 92,
+      "text": "Patience reveals results when maintained."
+    },
+    {
+      "id": 93,
+      "text": "Patience reveals results with commitment."
+    },
+    {
+      "id": 94,
+      "text": "Patience reveals results with thoughtful action."
+    },
+    {
+      "id": 95,
+      "text": "Patience reveals results with clarity of purpose."
+    },
+    {
+      "id": 96,
+      "text": "Patience reveals results without distraction."
+    },
+    {
+      "id": 97,
+      "text": "Patience reveals results with steady discipline."
+    },
+    {
+      "id": 98,
+      "text": "Patience reveals results with self-trust."
+    },
+    {
+      "id": 99,
+      "text": "Small steps create big change today."
+    },
+    {
+      "id": 100,
+      "text": "Small steps create big change over time."
+    },
+    {
+      "id": 101,
+      "text": "Small steps create big change when it matters."
+    },
+    {
+      "id": 102,
+      "text": "Small steps create big change in unexpected ways."
+    },
+    {
+      "id": 103,
+      "text": "Small steps create big change more than you expect."
+    },
+    {
+      "id": 104,
+      "text": "Small steps create big change sooner than planned."
+    },
+    {
+      "id": 105,
+      "text": "Small steps create big change with practice."
+    },
+    {
+      "id": 106,
+      "text": "Small steps create big change without shortcuts."
+    },
+    {
+      "id": 107,
+      "text": "Small steps create big change when you stay consistent."
+    },
+    {
+      "id": 108,
+      "text": "Small steps create big change when you stay patient."
+    },
+    {
+      "id": 109,
+      "text": "Small steps create big change with clarity."
+    },
+    {
+      "id": 110,
+      "text": "Small steps create big change with intention."
+    },
+    {
+      "id": 111,
+      "text": "Small steps create big change through discipline."
+    },
+    {
+      "id": 112,
+      "text": "Small steps create big change when you least expect it."
+    },
+    {
+      "id": 113,
+      "text": "Small steps create big change when you stay focused."
+    },
+    {
+      "id": 114,
+      "text": "Small steps create big change with steady effort."
+    },
+    {
+      "id": 115,
+      "text": "Small steps create big change without rush."
+    },
+    {
+      "id": 116,
+      "text": "Small steps create big change through learning."
+    },
+    {
+      "id": 117,
+      "text": "Small steps create big change when you commit."
+    },
+    {
+      "id": 118,
+      "text": "Small steps create big change with calm confidence."
+    },
+    {
+      "id": 119,
+      "text": "Small steps create big change step by step."
+    },
+    {
+      "id": 120,
+      "text": "Small steps create big change with repetition."
+    },
+    {
+      "id": 121,
+      "text": "Small steps create big change when aligned."
+    },
+    {
+      "id": 122,
+      "text": "Small steps create big change through consistency."
+    },
+    {
+      "id": 123,
+      "text": "Small steps create big change with awareness."
+    },
+    {
+      "id": 124,
+      "text": "Small steps create big change when simplified."
+    },
+    {
+      "id": 125,
+      "text": "Small steps create big change over the long run."
+    },
+    {
+      "id": 126,
+      "text": "Small steps create big change with deliberate action."
+    },
+    {
+      "id": 127,
+      "text": "Small steps create big change through focus."
+    },
+    {
+      "id": 128,
+      "text": "Small steps create big change with restraint."
+    },
+    {
+      "id": 129,
+      "text": "Small steps create big change with balance."
+    },
+    {
+      "id": 130,
+      "text": "Small steps create big change when repeated."
+    },
+    {
+      "id": 131,
+      "text": "Small steps create big change through effort."
+    },
+    {
+      "id": 132,
+      "text": "Small steps create big change when practiced."
+    },
+    {
+      "id": 133,
+      "text": "Small steps create big change with patience."
+    },
+    {
+      "id": 134,
+      "text": "Small steps create big change with intention daily."
+    },
+    {
+      "id": 135,
+      "text": "Small steps create big change over weeks."
+    },
+    {
+      "id": 136,
+      "text": "Small steps create big change over months."
+    },
+    {
+      "id": 137,
+      "text": "Small steps create big change over years."
+    },
+    {
+      "id": 138,
+      "text": "Small steps create big change with discipline daily."
+    },
+    {
+      "id": 139,
+      "text": "Small steps create big change when prioritized."
+    },
+    {
+      "id": 140,
+      "text": "Small steps create big change when refined."
+    },
+    {
+      "id": 141,
+      "text": "Small steps create big change when maintained."
+    },
+    {
+      "id": 142,
+      "text": "Small steps create big change with commitment."
+    },
+    {
+      "id": 143,
+      "text": "Small steps create big change with thoughtful action."
+    },
+    {
+      "id": 144,
+      "text": "Small steps create big change with clarity of purpose."
+    },
+    {
+      "id": 145,
+      "text": "Small steps create big change without distraction."
+    },
+    {
+      "id": 146,
+      "text": "Small steps create big change with steady discipline."
+    },
+    {
+      "id": 147,
+      "text": "Small steps create big change with self-trust."
+    },
+    {
+      "id": 148,
+      "text": "Consistency beats intensity today."
+    },
+    {
+      "id": 149,
+      "text": "Consistency beats intensity over time."
+    },
+    {
+      "id": 150,
+      "text": "Consistency beats intensity when it matters."
+    },
+    {
+      "id": 151,
+      "text": "Consistency beats intensity in unexpected ways."
+    },
+    {
+      "id": 152,
+      "text": "Consistency beats intensity more than you expect."
+    },
+    {
+      "id": 153,
+      "text": "Consistency beats intensity sooner than planned."
+    },
+    {
+      "id": 154,
+      "text": "Consistency beats intensity with practice."
+    },
+    {
+      "id": 155,
+      "text": "Consistency beats intensity without shortcuts."
+    },
+    {
+      "id": 156,
+      "text": "Consistency beats intensity when you stay consistent."
+    },
+    {
+      "id": 157,
+      "text": "Consistency beats intensity when you stay patient."
+    },
+    {
+      "id": 158,
+      "text": "Consistency beats intensity with clarity."
+    },
+    {
+      "id": 159,
+      "text": "Consistency beats intensity with intention."
+    },
+    {
+      "id": 160,
+      "text": "Consistency beats intensity through discipline."
+    },
+    {
+      "id": 161,
+      "text": "Consistency beats intensity when you least expect it."
+    },
+    {
+      "id": 162,
+      "text": "Consistency beats intensity when you stay focused."
+    },
+    {
+      "id": 163,
+      "text": "Consistency beats intensity with steady effort."
+    },
+    {
+      "id": 164,
+      "text": "Consistency beats intensity without rush."
+    },
+    {
+      "id": 165,
+      "text": "Consistency beats intensity through learning."
+    },
+    {
+      "id": 166,
+      "text": "Consistency beats intensity when you commit."
+    },
+    {
+      "id": 167,
+      "text": "Consistency beats intensity with calm confidence."
+    },
+    {
+      "id": 168,
+      "text": "Consistency beats intensity step by step."
+    },
+    {
+      "id": 169,
+      "text": "Consistency beats intensity with repetition."
+    },
+    {
+      "id": 170,
+      "text": "Consistency beats intensity when aligned."
+    },
+    {
+      "id": 171,
+      "text": "Consistency beats intensity through consistency."
+    },
+    {
+      "id": 172,
+      "text": "Consistency beats intensity with awareness."
+    },
+    {
+      "id": 173,
+      "text": "Consistency beats intensity when simplified."
+    },
+    {
+      "id": 174,
+      "text": "Consistency beats intensity over the long run."
+    },
+    {
+      "id": 175,
+      "text": "Consistency beats intensity with deliberate action."
+    },
+    {
+      "id": 176,
+      "text": "Consistency beats intensity through focus."
+    },
+    {
+      "id": 177,
+      "text": "Consistency beats intensity with restraint."
+    },
+    {
+      "id": 178,
+      "text": "Consistency beats intensity with balance."
+    },
+    {
+      "id": 179,
+      "text": "Consistency beats intensity when repeated."
+    },
+    {
+      "id": 180,
+      "text": "Consistency beats intensity through effort."
+    },
+    {
+      "id": 181,
+      "text": "Consistency beats intensity when practiced."
+    },
+    {
+      "id": 182,
+      "text": "Consistency beats intensity with patience."
+    },
+    {
+      "id": 183,
+      "text": "Consistency beats intensity with intention daily."
+    },
+    {
+      "id": 184,
+      "text": "Consistency beats intensity over weeks."
+    },
+    {
+      "id": 185,
+      "text": "Consistency beats intensity over months."
+    },
+    {
+      "id": 186,
+      "text": "Consistency beats intensity over years."
+    },
+    {
+      "id": 187,
+      "text": "Consistency beats intensity with discipline daily."
+    },
+    {
+      "id": 188,
+      "text": "Consistency beats intensity when prioritized."
+    },
+    {
+      "id": 189,
+      "text": "Consistency beats intensity when refined."
+    },
+    {
+      "id": 190,
+      "text": "Consistency beats intensity when maintained."
+    },
+    {
+      "id": 191,
+      "text": "Consistency beats intensity with commitment."
+    },
+    {
+      "id": 192,
+      "text": "Consistency beats intensity with thoughtful action."
+    },
+    {
+      "id": 193,
+      "text": "Consistency beats intensity with clarity of purpose."
+    },
+    {
+      "id": 194,
+      "text": "Consistency beats intensity without distraction."
+    },
+    {
+      "id": 195,
+      "text": "Consistency beats intensity with steady discipline."
+    },
+    {
+      "id": 196,
+      "text": "Consistency beats intensity with self-trust."
+    },
+    {
+      "id": 197,
+      "text": "Clarity improves decisions today."
+    },
+    {
+      "id": 198,
+      "text": "Clarity improves decisions over time."
+    },
+    {
+      "id": 199,
+      "text": "Clarity improves decisions when it matters."
+    },
+    {
+      "id": 200,
+      "text": "Clarity improves decisions in unexpected ways."
+    },
+    {
+      "id": 201,
+      "text": "Clarity improves decisions more than you expect."
+    },
+    {
+      "id": 202,
+      "text": "Clarity improves decisions sooner than planned."
+    },
+    {
+      "id": 203,
+      "text": "Clarity improves decisions with practice."
+    },
+    {
+      "id": 204,
+      "text": "Clarity improves decisions without shortcuts."
+    },
+    {
+      "id": 205,
+      "text": "Clarity improves decisions when you stay consistent."
+    },
+    {
+      "id": 206,
+      "text": "Clarity improves decisions when you stay patient."
+    },
+    {
+      "id": 207,
+      "text": "Clarity improves decisions with clarity."
+    },
+    {
+      "id": 208,
+      "text": "Clarity improves decisions with intention."
+    },
+    {
+      "id": 209,
+      "text": "Clarity improves decisions through discipline."
+    },
+    {
+      "id": 210,
+      "text": "Clarity improves decisions when you least expect it."
+    },
+    {
+      "id": 211,
+      "text": "Clarity improves decisions when you stay focused."
+    },
+    {
+      "id": 212,
+      "text": "Clarity improves decisions with steady effort."
+    },
+    {
+      "id": 213,
+      "text": "Clarity improves decisions without rush."
+    },
+    {
+      "id": 214,
+      "text": "Clarity improves decisions through learning."
+    },
+    {
+      "id": 215,
+      "text": "Clarity improves decisions when you commit."
+    },
+    {
+      "id": 216,
+      "text": "Clarity improves decisions with calm confidence."
+    },
+    {
+      "id": 217,
+      "text": "Clarity improves decisions step by step."
+    },
+    {
+      "id": 218,
+      "text": "Clarity improves decisions with repetition."
+    },
+    {
+      "id": 219,
+      "text": "Clarity improves decisions when aligned."
+    },
+    {
+      "id": 220,
+      "text": "Clarity improves decisions through consistency."
+    },
+    {
+      "id": 221,
+      "text": "Clarity improves decisions with awareness."
+    },
+    {
+      "id": 222,
+      "text": "Clarity improves decisions when simplified."
+    },
+    {
+      "id": 223,
+      "text": "Clarity improves decisions over the long run."
+    },
+    {
+      "id": 224,
+      "text": "Clarity improves decisions with deliberate action."
+    },
+    {
+      "id": 225,
+      "text": "Clarity improves decisions through focus."
+    },
+    {
+      "id": 226,
+      "text": "Clarity improves decisions with restraint."
+    },
+    {
+      "id": 227,
+      "text": "Clarity improves decisions with balance."
+    },
+    {
+      "id": 228,
+      "text": "Clarity improves decisions when repeated."
+    },
+    {
+      "id": 229,
+      "text": "Clarity improves decisions through effort."
+    },
+    {
+      "id": 230,
+      "text": "Clarity improves decisions when practiced."
+    },
+    {
+      "id": 231,
+      "text": "Clarity improves decisions with patience."
+    },
+    {
+      "id": 232,
+      "text": "Clarity improves decisions with intention daily."
+    },
+    {
+      "id": 233,
+      "text": "Clarity improves decisions over weeks."
+    },
+    {
+      "id": 234,
+      "text": "Clarity improves decisions over months."
+    },
+    {
+      "id": 235,
+      "text": "Clarity improves decisions over years."
+    },
+    {
+      "id": 236,
+      "text": "Clarity improves decisions with discipline daily."
+    },
+    {
+      "id": 237,
+      "text": "Clarity improves decisions when prioritized."
+    },
+    {
+      "id": 238,
+      "text": "Clarity improves decisions when refined."
+    },
+    {
+      "id": 239,
+      "text": "Clarity improves decisions when maintained."
+    },
+    {
+      "id": 240,
+      "text": "Clarity improves decisions with commitment."
+    },
+    {
+      "id": 241,
+      "text": "Clarity improves decisions with thoughtful action."
+    },
+    {
+      "id": 242,
+      "text": "Clarity improves decisions with clarity of purpose."
+    },
+    {
+      "id": 243,
+      "text": "Clarity improves decisions without distraction."
+    },
+    {
+      "id": 244,
+      "text": "Clarity improves decisions with steady discipline."
+    },
+    {
+      "id": 245,
+      "text": "Clarity improves decisions with self-trust."
+    },
+    {
+      "id": 246,
+      "text": "Effort compounds quietly today."
+    },
+    {
+      "id": 247,
+      "text": "Effort compounds quietly over time."
+    },
+    {
+      "id": 248,
+      "text": "Effort compounds quietly when it matters."
+    },
+    {
+      "id": 249,
+      "text": "Effort compounds quietly in unexpected ways."
+    },
+    {
+      "id": 250,
+      "text": "Effort compounds quietly more than you expect."
+    },
+    {
+      "id": 251,
+      "text": "Effort compounds quietly sooner than planned."
+    },
+    {
+      "id": 252,
+      "text": "Effort compounds quietly with practice."
+    },
+    {
+      "id": 253,
+      "text": "Effort compounds quietly without shortcuts."
+    },
+    {
+      "id": 254,
+      "text": "Effort compounds quietly when you stay consistent."
+    },
+    {
+      "id": 255,
+      "text": "Effort compounds quietly when you stay patient."
+    },
+    {
+      "id": 256,
+      "text": "Effort compounds quietly with clarity."
+    },
+    {
+      "id": 257,
+      "text": "Effort compounds quietly with intention."
+    },
+    {
+      "id": 258,
+      "text": "Effort compounds quietly through discipline."
+    },
+    {
+      "id": 259,
+      "text": "Effort compounds quietly when you least expect it."
+    },
+    {
+      "id": 260,
+      "text": "Effort compounds quietly when you stay focused."
+    },
+    {
+      "id": 261,
+      "text": "Effort compounds quietly with steady effort."
+    },
+    {
+      "id": 262,
+      "text": "Effort compounds quietly without rush."
+    },
+    {
+      "id": 263,
+      "text": "Effort compounds quietly through learning."
+    },
+    {
+      "id": 264,
+      "text": "Effort compounds quietly when you commit."
+    },
+    {
+      "id": 265,
+      "text": "Effort compounds quietly with calm confidence."
+    },
+    {
+      "id": 266,
+      "text": "Effort compounds quietly step by step."
+    },
+    {
+      "id": 267,
+      "text": "Effort compounds quietly with repetition."
+    },
+    {
+      "id": 268,
+      "text": "Effort compounds quietly when aligned."
+    },
+    {
+      "id": 269,
+      "text": "Effort compounds quietly through consistency."
+    },
+    {
+      "id": 270,
+      "text": "Effort compounds quietly with awareness."
+    },
+    {
+      "id": 271,
+      "text": "Effort compounds quietly when simplified."
+    },
+    {
+      "id": 272,
+      "text": "Effort compounds quietly over the long run."
+    },
+    {
+      "id": 273,
+      "text": "Effort compounds quietly with deliberate action."
+    },
+    {
+      "id": 274,
+      "text": "Effort compounds quietly through focus."
+    },
+    {
+      "id": 275,
+      "text": "Effort compounds quietly with restraint."
+    },
+    {
+      "id": 276,
+      "text": "Effort compounds quietly with balance."
+    },
+    {
+      "id": 277,
+      "text": "Effort compounds quietly when repeated."
+    },
+    {
+      "id": 278,
+      "text": "Effort compounds quietly through effort."
+    },
+    {
+      "id": 279,
+      "text": "Effort compounds quietly when practiced."
+    },
+    {
+      "id": 280,
+      "text": "Effort compounds quietly with patience."
+    },
+    {
+      "id": 281,
+      "text": "Effort compounds quietly with intention daily."
+    },
+    {
+      "id": 282,
+      "text": "Effort compounds quietly over weeks."
+    },
+    {
+      "id": 283,
+      "text": "Effort compounds quietly over months."
+    },
+    {
+      "id": 284,
+      "text": "Effort compounds quietly over years."
+    },
+    {
+      "id": 285,
+      "text": "Effort compounds quietly with discipline daily."
+    },
+    {
+      "id": 286,
+      "text": "Effort compounds quietly when prioritized."
+    },
+    {
+      "id": 287,
+      "text": "Effort compounds quietly when refined."
+    },
+    {
+      "id": 288,
+      "text": "Effort compounds quietly when maintained."
+    },
+    {
+      "id": 289,
+      "text": "Effort compounds quietly with commitment."
+    },
+    {
+      "id": 290,
+      "text": "Effort compounds quietly with thoughtful action."
+    },
+    {
+      "id": 291,
+      "text": "Effort compounds quietly with clarity of purpose."
+    },
+    {
+      "id": 292,
+      "text": "Effort compounds quietly without distraction."
+    },
+    {
+      "id": 293,
+      "text": "Effort compounds quietly with steady discipline."
+    },
+    {
+      "id": 294,
+      "text": "Effort compounds quietly with self-trust."
+    },
+    {
+      "id": 295,
+      "text": "Progress prefers persistence today."
+    },
+    {
+      "id": 296,
+      "text": "Progress prefers persistence over time."
+    },
+    {
+      "id": 297,
+      "text": "Progress prefers persistence when it matters."
+    },
+    {
+      "id": 298,
+      "text": "Progress prefers persistence in unexpected ways."
+    },
+    {
+      "id": 299,
+      "text": "Progress prefers persistence more than you expect."
+    },
+    {
+      "id": 300,
+      "text": "Progress prefers persistence sooner than planned."
+    },
+    {
+      "id": 301,
+      "text": "Progress prefers persistence with practice."
+    },
+    {
+      "id": 302,
+      "text": "Progress prefers persistence without shortcuts."
+    },
+    {
+      "id": 303,
+      "text": "Progress prefers persistence when you stay consistent."
+    },
+    {
+      "id": 304,
+      "text": "Progress prefers persistence when you stay patient."
+    },
+    {
+      "id": 305,
+      "text": "Progress prefers persistence with clarity."
+    },
+    {
+      "id": 306,
+      "text": "Progress prefers persistence with intention."
+    },
+    {
+      "id": 307,
+      "text": "Progress prefers persistence through discipline."
+    },
+    {
+      "id": 308,
+      "text": "Progress prefers persistence when you least expect it."
+    },
+    {
+      "id": 309,
+      "text": "Progress prefers persistence when you stay focused."
+    },
+    {
+      "id": 310,
+      "text": "Progress prefers persistence with steady effort."
+    },
+    {
+      "id": 311,
+      "text": "Progress prefers persistence without rush."
+    },
+    {
+      "id": 312,
+      "text": "Progress prefers persistence through learning."
+    },
+    {
+      "id": 313,
+      "text": "Progress prefers persistence when you commit."
+    },
+    {
+      "id": 314,
+      "text": "Progress prefers persistence with calm confidence."
+    },
+    {
+      "id": 315,
+      "text": "Progress prefers persistence step by step."
+    },
+    {
+      "id": 316,
+      "text": "Progress prefers persistence with repetition."
+    },
+    {
+      "id": 317,
+      "text": "Progress prefers persistence when aligned."
+    },
+    {
+      "id": 318,
+      "text": "Progress prefers persistence through consistency."
+    },
+    {
+      "id": 319,
+      "text": "Progress prefers persistence with awareness."
+    },
+    {
+      "id": 320,
+      "text": "Progress prefers persistence when simplified."
+    },
+    {
+      "id": 321,
+      "text": "Progress prefers persistence over the long run."
+    },
+    {
+      "id": 322,
+      "text": "Progress prefers persistence with deliberate action."
+    },
+    {
+      "id": 323,
+      "text": "Progress prefers persistence through focus."
+    },
+    {
+      "id": 324,
+      "text": "Progress prefers persistence with restraint."
+    },
+    {
+      "id": 325,
+      "text": "Progress prefers persistence with balance."
+    },
+    {
+      "id": 326,
+      "text": "Progress prefers persistence when repeated."
+    },
+    {
+      "id": 327,
+      "text": "Progress prefers persistence through effort."
+    },
+    {
+      "id": 328,
+      "text": "Progress prefers persistence when practiced."
+    },
+    {
+      "id": 329,
+      "text": "Progress prefers persistence with patience."
+    },
+    {
+      "id": 330,
+      "text": "Progress prefers persistence with intention daily."
+    },
+    {
+      "id": 331,
+      "text": "Progress prefers persistence over weeks."
+    },
+    {
+      "id": 332,
+      "text": "Progress prefers persistence over months."
+    },
+    {
+      "id": 333,
+      "text": "Progress prefers persistence over years."
+    },
+    {
+      "id": 334,
+      "text": "Progress prefers persistence with discipline daily."
+    },
+    {
+      "id": 335,
+      "text": "Progress prefers persistence when prioritized."
+    },
+    {
+      "id": 336,
+      "text": "Progress prefers persistence when refined."
+    },
+    {
+      "id": 337,
+      "text": "Progress prefers persistence when maintained."
+    },
+    {
+      "id": 338,
+      "text": "Progress prefers persistence with commitment."
+    },
+    {
+      "id": 339,
+      "text": "Progress prefers persistence with thoughtful action."
+    },
+    {
+      "id": 340,
+      "text": "Progress prefers persistence with clarity of purpose."
+    },
+    {
+      "id": 341,
+      "text": "Progress prefers persistence without distraction."
+    },
+    {
+      "id": 342,
+      "text": "Progress prefers persistence with steady discipline."
+    },
+    {
+      "id": 343,
+      "text": "Progress prefers persistence with self-trust."
+    },
+    {
+      "id": 344,
+      "text": "Calm thinking works best today."
+    },
+    {
+      "id": 345,
+      "text": "Calm thinking works best over time."
+    },
+    {
+      "id": 346,
+      "text": "Calm thinking works best when it matters."
+    },
+    {
+      "id": 347,
+      "text": "Calm thinking works best in unexpected ways."
+    },
+    {
+      "id": 348,
+      "text": "Calm thinking works best more than you expect."
+    },
+    {
+      "id": 349,
+      "text": "Calm thinking works best sooner than planned."
+    },
+    {
+      "id": 350,
+      "text": "Calm thinking works best with practice."
+    },
+    {
+      "id": 351,
+      "text": "Calm thinking works best without shortcuts."
+    },
+    {
+      "id": 352,
+      "text": "Calm thinking works best when you stay consistent."
+    },
+    {
+      "id": 353,
+      "text": "Calm thinking works best when you stay patient."
+    },
+    {
+      "id": 354,
+      "text": "Calm thinking works best with clarity."
+    },
+    {
+      "id": 355,
+      "text": "Calm thinking works best with intention."
+    },
+    {
+      "id": 356,
+      "text": "Calm thinking works best through discipline."
+    },
+    {
+      "id": 357,
+      "text": "Calm thinking works best when you least expect it."
+    },
+    {
+      "id": 358,
+      "text": "Calm thinking works best when you stay focused."
+    },
+    {
+      "id": 359,
+      "text": "Calm thinking works best with steady effort."
+    },
+    {
+      "id": 360,
+      "text": "Calm thinking works best without rush."
+    },
+    {
+      "id": 361,
+      "text": "Calm thinking works best through learning."
+    },
+    {
+      "id": 362,
+      "text": "Calm thinking works best when you commit."
+    },
+    {
+      "id": 363,
+      "text": "Calm thinking works best with calm confidence."
+    },
+    {
+      "id": 364,
+      "text": "Calm thinking works best step by step."
+    },
+    {
+      "id": 365,
+      "text": "Calm thinking works best with repetition."
+    },
+    {
+      "id": 366,
+      "text": "Calm thinking works best when aligned."
+    },
+    {
+      "id": 367,
+      "text": "Calm thinking works best through consistency."
+    },
+    {
+      "id": 368,
+      "text": "Calm thinking works best with awareness."
+    },
+    {
+      "id": 369,
+      "text": "Calm thinking works best when simplified."
+    },
+    {
+      "id": 370,
+      "text": "Calm thinking works best over the long run."
+    },
+    {
+      "id": 371,
+      "text": "Calm thinking works best with deliberate action."
+    },
+    {
+      "id": 372,
+      "text": "Calm thinking works best through focus."
+    },
+    {
+      "id": 373,
+      "text": "Calm thinking works best with restraint."
+    },
+    {
+      "id": 374,
+      "text": "Calm thinking works best with balance."
+    },
+    {
+      "id": 375,
+      "text": "Calm thinking works best when repeated."
+    },
+    {
+      "id": 376,
+      "text": "Calm thinking works best through effort."
+    },
+    {
+      "id": 377,
+      "text": "Calm thinking works best when practiced."
+    },
+    {
+      "id": 378,
+      "text": "Calm thinking works best with patience."
+    },
+    {
+      "id": 379,
+      "text": "Calm thinking works best with intention daily."
+    },
+    {
+      "id": 380,
+      "text": "Calm thinking works best over weeks."
+    },
+    {
+      "id": 381,
+      "text": "Calm thinking works best over months."
+    },
+    {
+      "id": 382,
+      "text": "Calm thinking works best over years."
+    },
+    {
+      "id": 383,
+      "text": "Calm thinking works best with discipline daily."
+    },
+    {
+      "id": 384,
+      "text": "Calm thinking works best when prioritized."
+    },
+    {
+      "id": 385,
+      "text": "Calm thinking works best when refined."
+    },
+    {
+      "id": 386,
+      "text": "Calm thinking works best when maintained."
+    },
+    {
+      "id": 387,
+      "text": "Calm thinking works best with commitment."
+    },
+    {
+      "id": 388,
+      "text": "Calm thinking works best with thoughtful action."
+    },
+    {
+      "id": 389,
+      "text": "Calm thinking works best with clarity of purpose."
+    },
+    {
+      "id": 390,
+      "text": "Calm thinking works best without distraction."
+    },
+    {
+      "id": 391,
+      "text": "Calm thinking works best with steady discipline."
+    },
+    {
+      "id": 392,
+      "text": "Calm thinking works best with self-trust."
+    },
+    {
+      "id": 393,
+      "text": "Focus creates momentum today."
+    },
+    {
+      "id": 394,
+      "text": "Focus creates momentum over time."
+    },
+    {
+      "id": 395,
+      "text": "Focus creates momentum when it matters."
+    },
+    {
+      "id": 396,
+      "text": "Focus creates momentum in unexpected ways."
+    },
+    {
+      "id": 397,
+      "text": "Focus creates momentum more than you expect."
+    },
+    {
+      "id": 398,
+      "text": "Focus creates momentum sooner than planned."
+    },
+    {
+      "id": 399,
+      "text": "Focus creates momentum with practice."
+    },
+    {
+      "id": 400,
+      "text": "Focus creates momentum without shortcuts."
+    },
+    {
+      "id": 401,
+      "text": "Focus creates momentum when you stay consistent."
+    },
+    {
+      "id": 402,
+      "text": "Focus creates momentum when you stay patient."
+    },
+    {
+      "id": 403,
+      "text": "Focus creates momentum with clarity."
+    },
+    {
+      "id": 404,
+      "text": "Focus creates momentum with intention."
+    },
+    {
+      "id": 405,
+      "text": "Focus creates momentum through discipline."
+    },
+    {
+      "id": 406,
+      "text": "Focus creates momentum when you least expect it."
+    },
+    {
+      "id": 407,
+      "text": "Focus creates momentum when you stay focused."
+    },
+    {
+      "id": 408,
+      "text": "Focus creates momentum with steady effort."
+    },
+    {
+      "id": 409,
+      "text": "Focus creates momentum without rush."
+    },
+    {
+      "id": 410,
+      "text": "Focus creates momentum through learning."
+    },
+    {
+      "id": 411,
+      "text": "Focus creates momentum when you commit."
+    },
+    {
+      "id": 412,
+      "text": "Focus creates momentum with calm confidence."
+    },
+    {
+      "id": 413,
+      "text": "Focus creates momentum step by step."
+    },
+    {
+      "id": 414,
+      "text": "Focus creates momentum with repetition."
+    },
+    {
+      "id": 415,
+      "text": "Focus creates momentum when aligned."
+    },
+    {
+      "id": 416,
+      "text": "Focus creates momentum through consistency."
+    },
+    {
+      "id": 417,
+      "text": "Focus creates momentum with awareness."
+    },
+    {
+      "id": 418,
+      "text": "Focus creates momentum when simplified."
+    },
+    {
+      "id": 419,
+      "text": "Focus creates momentum over the long run."
+    },
+    {
+      "id": 420,
+      "text": "Focus creates momentum with deliberate action."
+    },
+    {
+      "id": 421,
+      "text": "Focus creates momentum through focus."
+    },
+    {
+      "id": 422,
+      "text": "Focus creates momentum with restraint."
+    },
+    {
+      "id": 423,
+      "text": "Focus creates momentum with balance."
+    },
+    {
+      "id": 424,
+      "text": "Focus creates momentum when repeated."
+    },
+    {
+      "id": 425,
+      "text": "Focus creates momentum through effort."
+    },
+    {
+      "id": 426,
+      "text": "Focus creates momentum when practiced."
+    },
+    {
+      "id": 427,
+      "text": "Focus creates momentum with patience."
+    },
+    {
+      "id": 428,
+      "text": "Focus creates momentum with intention daily."
+    },
+    {
+      "id": 429,
+      "text": "Focus creates momentum over weeks."
+    },
+    {
+      "id": 430,
+      "text": "Focus creates momentum over months."
+    },
+    {
+      "id": 431,
+      "text": "Focus creates momentum over years."
+    },
+    {
+      "id": 432,
+      "text": "Focus creates momentum with discipline daily."
+    },
+    {
+      "id": 433,
+      "text": "Focus creates momentum when prioritized."
+    },
+    {
+      "id": 434,
+      "text": "Focus creates momentum when refined."
+    },
+    {
+      "id": 435,
+      "text": "Focus creates momentum when maintained."
+    },
+    {
+      "id": 436,
+      "text": "Focus creates momentum with commitment."
+    },
+    {
+      "id": 437,
+      "text": "Focus creates momentum with thoughtful action."
+    },
+    {
+      "id": 438,
+      "text": "Focus creates momentum with clarity of purpose."
+    },
+    {
+      "id": 439,
+      "text": "Focus creates momentum without distraction."
+    },
+    {
+      "id": 440,
+      "text": "Focus creates momentum with steady discipline."
+    },
+    {
+      "id": 441,
+      "text": "Focus creates momentum with self-trust."
+    },
+    {
+      "id": 442,
+      "text": "Growth feels uncomfortable first today."
+    },
+    {
+      "id": 443,
+      "text": "Growth feels uncomfortable first over time."
+    },
+    {
+      "id": 444,
+      "text": "Growth feels uncomfortable first when it matters."
+    },
+    {
+      "id": 445,
+      "text": "Growth feels uncomfortable first in unexpected ways."
+    },
+    {
+      "id": 446,
+      "text": "Growth feels uncomfortable first more than you expect."
+    },
+    {
+      "id": 447,
+      "text": "Growth feels uncomfortable first sooner than planned."
+    },
+    {
+      "id": 448,
+      "text": "Growth feels uncomfortable first with practice."
+    },
+    {
+      "id": 449,
+      "text": "Growth feels uncomfortable first without shortcuts."
+    },
+    {
+      "id": 450,
+      "text": "Growth feels uncomfortable first when you stay consistent."
+    },
+    {
+      "id": 451,
+      "text": "Growth feels uncomfortable first when you stay patient."
+    },
+    {
+      "id": 452,
+      "text": "Growth feels uncomfortable first with clarity."
+    },
+    {
+      "id": 453,
+      "text": "Growth feels uncomfortable first with intention."
+    },
+    {
+      "id": 454,
+      "text": "Growth feels uncomfortable first through discipline."
+    },
+    {
+      "id": 455,
+      "text": "Growth feels uncomfortable first when you least expect it."
+    },
+    {
+      "id": 456,
+      "text": "Growth feels uncomfortable first when you stay focused."
+    },
+    {
+      "id": 457,
+      "text": "Growth feels uncomfortable first with steady effort."
+    },
+    {
+      "id": 458,
+      "text": "Growth feels uncomfortable first without rush."
+    },
+    {
+      "id": 459,
+      "text": "Growth feels uncomfortable first through learning."
+    },
+    {
+      "id": 460,
+      "text": "Growth feels uncomfortable first when you commit."
+    },
+    {
+      "id": 461,
+      "text": "Growth feels uncomfortable first with calm confidence."
+    },
+    {
+      "id": 462,
+      "text": "Growth feels uncomfortable first step by step."
+    },
+    {
+      "id": 463,
+      "text": "Growth feels uncomfortable first with repetition."
+    },
+    {
+      "id": 464,
+      "text": "Growth feels uncomfortable first when aligned."
+    },
+    {
+      "id": 465,
+      "text": "Growth feels uncomfortable first through consistency."
+    },
+    {
+      "id": 466,
+      "text": "Growth feels uncomfortable first with awareness."
+    },
+    {
+      "id": 467,
+      "text": "Growth feels uncomfortable first when simplified."
+    },
+    {
+      "id": 468,
+      "text": "Growth feels uncomfortable first over the long run."
+    },
+    {
+      "id": 469,
+      "text": "Growth feels uncomfortable first with deliberate action."
+    },
+    {
+      "id": 470,
+      "text": "Growth feels uncomfortable first through focus."
+    },
+    {
+      "id": 471,
+      "text": "Growth feels uncomfortable first with restraint."
+    },
+    {
+      "id": 472,
+      "text": "Growth feels uncomfortable first with balance."
+    },
+    {
+      "id": 473,
+      "text": "Growth feels uncomfortable first when repeated."
+    },
+    {
+      "id": 474,
+      "text": "Growth feels uncomfortable first through effort."
+    },
+    {
+      "id": 475,
+      "text": "Growth feels uncomfortable first when practiced."
+    },
+    {
+      "id": 476,
+      "text": "Growth feels uncomfortable first with patience."
+    },
+    {
+      "id": 477,
+      "text": "Growth feels uncomfortable first with intention daily."
+    },
+    {
+      "id": 478,
+      "text": "Growth feels uncomfortable first over weeks."
+    },
+    {
+      "id": 479,
+      "text": "Growth feels uncomfortable first over months."
+    },
+    {
+      "id": 480,
+      "text": "Growth feels uncomfortable first over years."
+    },
+    {
+      "id": 481,
+      "text": "Growth feels uncomfortable first with discipline daily."
+    },
+    {
+      "id": 482,
+      "text": "Growth feels uncomfortable first when prioritized."
+    },
+    {
+      "id": 483,
+      "text": "Growth feels uncomfortable first when refined."
+    },
+    {
+      "id": 484,
+      "text": "Growth feels uncomfortable first when maintained."
+    },
+    {
+      "id": 485,
+      "text": "Growth feels uncomfortable first with commitment."
+    },
+    {
+      "id": 486,
+      "text": "Growth feels uncomfortable first with thoughtful action."
+    },
+    {
+      "id": 487,
+      "text": "Growth feels uncomfortable first with clarity of purpose."
+    },
+    {
+      "id": 488,
+      "text": "Growth feels uncomfortable first without distraction."
+    },
+    {
+      "id": 489,
+      "text": "Growth feels uncomfortable first with steady discipline."
+    },
+    {
+      "id": 490,
+      "text": "Growth feels uncomfortable first with self-trust."
+    },
+    {
+      "id": 491,
+      "text": "Trust builds strength today."
+    },
+    {
+      "id": 492,
+      "text": "Trust builds strength over time."
+    },
+    {
+      "id": 493,
+      "text": "Trust builds strength when it matters."
+    },
+    {
+      "id": 494,
+      "text": "Trust builds strength in unexpected ways."
+    },
+    {
+      "id": 495,
+      "text": "Trust builds strength more than you expect."
+    },
+    {
+      "id": 496,
+      "text": "Trust builds strength sooner than planned."
+    },
+    {
+      "id": 497,
+      "text": "Trust builds strength with practice."
+    },
+    {
+      "id": 498,
+      "text": "Trust builds strength without shortcuts."
+    },
+    {
+      "id": 499,
+      "text": "Trust builds strength when you stay consistent."
+    },
+    {
+      "id": 500,
+      "text": "Trust builds strength when you stay patient."
+    },
+    {
+      "id": 501,
+      "text": "Trust builds strength with clarity."
+    },
+    {
+      "id": 502,
+      "text": "Trust builds strength with intention."
+    },
+    {
+      "id": 503,
+      "text": "Trust builds strength through discipline."
+    },
+    {
+      "id": 504,
+      "text": "Trust builds strength when you least expect it."
+    },
+    {
+      "id": 505,
+      "text": "Trust builds strength when you stay focused."
+    },
+    {
+      "id": 506,
+      "text": "Trust builds strength with steady effort."
+    },
+    {
+      "id": 507,
+      "text": "Trust builds strength without rush."
+    },
+    {
+      "id": 508,
+      "text": "Trust builds strength through learning."
+    },
+    {
+      "id": 509,
+      "text": "Trust builds strength when you commit."
+    },
+    {
+      "id": 510,
+      "text": "Trust builds strength with calm confidence."
+    },
+    {
+      "id": 511,
+      "text": "Trust builds strength step by step."
+    },
+    {
+      "id": 512,
+      "text": "Trust builds strength with repetition."
+    },
+    {
+      "id": 513,
+      "text": "Trust builds strength when aligned."
+    },
+    {
+      "id": 514,
+      "text": "Trust builds strength through consistency."
+    },
+    {
+      "id": 515,
+      "text": "Trust builds strength with awareness."
+    },
+    {
+      "id": 516,
+      "text": "Trust builds strength when simplified."
+    },
+    {
+      "id": 517,
+      "text": "Trust builds strength over the long run."
+    },
+    {
+      "id": 518,
+      "text": "Trust builds strength with deliberate action."
+    },
+    {
+      "id": 519,
+      "text": "Trust builds strength through focus."
+    },
+    {
+      "id": 520,
+      "text": "Trust builds strength with restraint."
+    },
+    {
+      "id": 521,
+      "text": "Trust builds strength with balance."
+    },
+    {
+      "id": 522,
+      "text": "Trust builds strength when repeated."
+    },
+    {
+      "id": 523,
+      "text": "Trust builds strength through effort."
+    },
+    {
+      "id": 524,
+      "text": "Trust builds strength when practiced."
+    },
+    {
+      "id": 525,
+      "text": "Trust builds strength with patience."
+    },
+    {
+      "id": 526,
+      "text": "Trust builds strength with intention daily."
+    },
+    {
+      "id": 527,
+      "text": "Trust builds strength over weeks."
+    },
+    {
+      "id": 528,
+      "text": "Trust builds strength over months."
+    },
+    {
+      "id": 529,
+      "text": "Trust builds strength over years."
+    },
+    {
+      "id": 530,
+      "text": "Trust builds strength with discipline daily."
+    },
+    {
+      "id": 531,
+      "text": "Trust builds strength when prioritized."
+    },
+    {
+      "id": 532,
+      "text": "Trust builds strength when refined."
+    },
+    {
+      "id": 533,
+      "text": "Trust builds strength when maintained."
+    },
+    {
+      "id": 534,
+      "text": "Trust builds strength with commitment."
+    },
+    {
+      "id": 535,
+      "text": "Trust builds strength with thoughtful action."
+    },
+    {
+      "id": 536,
+      "text": "Trust builds strength with clarity of purpose."
+    },
+    {
+      "id": 537,
+      "text": "Trust builds strength without distraction."
+    },
+    {
+      "id": 538,
+      "text": "Trust builds strength with steady discipline."
+    },
+    {
+      "id": 539,
+      "text": "Trust builds strength with self-trust."
+    },
+    {
+      "id": 540,
+      "text": "Learning never wastes effort today."
+    },
+    {
+      "id": 541,
+      "text": "Learning never wastes effort over time."
+    },
+    {
+      "id": 542,
+      "text": "Learning never wastes effort when it matters."
+    },
+    {
+      "id": 543,
+      "text": "Learning never wastes effort in unexpected ways."
+    },
+    {
+      "id": 544,
+      "text": "Learning never wastes effort more than you expect."
+    },
+    {
+      "id": 545,
+      "text": "Learning never wastes effort sooner than planned."
+    },
+    {
+      "id": 546,
+      "text": "Learning never wastes effort with practice."
+    },
+    {
+      "id": 547,
+      "text": "Learning never wastes effort without shortcuts."
+    },
+    {
+      "id": 548,
+      "text": "Learning never wastes effort when you stay consistent."
+    },
+    {
+      "id": 549,
+      "text": "Learning never wastes effort when you stay patient."
+    },
+    {
+      "id": 550,
+      "text": "Learning never wastes effort with clarity."
+    },
+    {
+      "id": 551,
+      "text": "Learning never wastes effort with intention."
+    },
+    {
+      "id": 552,
+      "text": "Learning never wastes effort through discipline."
+    },
+    {
+      "id": 553,
+      "text": "Learning never wastes effort when you least expect it."
+    },
+    {
+      "id": 554,
+      "text": "Learning never wastes effort when you stay focused."
+    },
+    {
+      "id": 555,
+      "text": "Learning never wastes effort with steady effort."
+    },
+    {
+      "id": 556,
+      "text": "Learning never wastes effort without rush."
+    },
+    {
+      "id": 557,
+      "text": "Learning never wastes effort through learning."
+    },
+    {
+      "id": 558,
+      "text": "Learning never wastes effort when you commit."
+    },
+    {
+      "id": 559,
+      "text": "Learning never wastes effort with calm confidence."
+    },
+    {
+      "id": 560,
+      "text": "Learning never wastes effort step by step."
+    },
+    {
+      "id": 561,
+      "text": "Learning never wastes effort with repetition."
+    },
+    {
+      "id": 562,
+      "text": "Learning never wastes effort when aligned."
+    },
+    {
+      "id": 563,
+      "text": "Learning never wastes effort through consistency."
+    },
+    {
+      "id": 564,
+      "text": "Learning never wastes effort with awareness."
+    },
+    {
+      "id": 565,
+      "text": "Learning never wastes effort when simplified."
+    },
+    {
+      "id": 566,
+      "text": "Learning never wastes effort over the long run."
+    },
+    {
+      "id": 567,
+      "text": "Learning never wastes effort with deliberate action."
+    },
+    {
+      "id": 568,
+      "text": "Learning never wastes effort through focus."
+    },
+    {
+      "id": 569,
+      "text": "Learning never wastes effort with restraint."
+    },
+    {
+      "id": 570,
+      "text": "Learning never wastes effort with balance."
+    },
+    {
+      "id": 571,
+      "text": "Learning never wastes effort when repeated."
+    },
+    {
+      "id": 572,
+      "text": "Learning never wastes effort through effort."
+    },
+    {
+      "id": 573,
+      "text": "Learning never wastes effort when practiced."
+    },
+    {
+      "id": 574,
+      "text": "Learning never wastes effort with patience."
+    },
+    {
+      "id": 575,
+      "text": "Learning never wastes effort with intention daily."
+    },
+    {
+      "id": 576,
+      "text": "Learning never wastes effort over weeks."
+    },
+    {
+      "id": 577,
+      "text": "Learning never wastes effort over months."
+    },
+    {
+      "id": 578,
+      "text": "Learning never wastes effort over years."
+    },
+    {
+      "id": 579,
+      "text": "Learning never wastes effort with discipline daily."
+    },
+    {
+      "id": 580,
+      "text": "Learning never wastes effort when prioritized."
+    },
+    {
+      "id": 581,
+      "text": "Learning never wastes effort when refined."
+    },
+    {
+      "id": 582,
+      "text": "Learning never wastes effort when maintained."
+    },
+    {
+      "id": 583,
+      "text": "Learning never wastes effort with commitment."
+    },
+    {
+      "id": 584,
+      "text": "Learning never wastes effort with thoughtful action."
+    },
+    {
+      "id": 585,
+      "text": "Learning never wastes effort with clarity of purpose."
+    },
+    {
+      "id": 586,
+      "text": "Learning never wastes effort without distraction."
+    },
+    {
+      "id": 587,
+      "text": "Learning never wastes effort with steady discipline."
+    },
+    {
+      "id": 588,
+      "text": "Learning never wastes effort with self-trust."
+    },
+    {
+      "id": 589,
+      "text": "Adaptability creates advantage today."
+    },
+    {
+      "id": 590,
+      "text": "Adaptability creates advantage over time."
+    },
+    {
+      "id": 591,
+      "text": "Adaptability creates advantage when it matters."
+    },
+    {
+      "id": 592,
+      "text": "Adaptability creates advantage in unexpected ways."
+    },
+    {
+      "id": 593,
+      "text": "Adaptability creates advantage more than you expect."
+    },
+    {
+      "id": 594,
+      "text": "Adaptability creates advantage sooner than planned."
+    },
+    {
+      "id": 595,
+      "text": "Adaptability creates advantage with practice."
+    },
+    {
+      "id": 596,
+      "text": "Adaptability creates advantage without shortcuts."
+    },
+    {
+      "id": 597,
+      "text": "Adaptability creates advantage when you stay consistent."
+    },
+    {
+      "id": 598,
+      "text": "Adaptability creates advantage when you stay patient."
+    },
+    {
+      "id": 599,
+      "text": "Adaptability creates advantage with clarity."
+    },
+    {
+      "id": 600,
+      "text": "Adaptability creates advantage with intention."
+    },
+    {
+      "id": 601,
+      "text": "Adaptability creates advantage through discipline."
+    },
+    {
+      "id": 602,
+      "text": "Adaptability creates advantage when you least expect it."
+    },
+    {
+      "id": 603,
+      "text": "Adaptability creates advantage when you stay focused."
+    },
+    {
+      "id": 604,
+      "text": "Adaptability creates advantage with steady effort."
+    },
+    {
+      "id": 605,
+      "text": "Adaptability creates advantage without rush."
+    },
+    {
+      "id": 606,
+      "text": "Adaptability creates advantage through learning."
+    },
+    {
+      "id": 607,
+      "text": "Adaptability creates advantage when you commit."
+    },
+    {
+      "id": 608,
+      "text": "Adaptability creates advantage with calm confidence."
+    },
+    {
+      "id": 609,
+      "text": "Adaptability creates advantage step by step."
+    },
+    {
+      "id": 610,
+      "text": "Adaptability creates advantage with repetition."
+    },
+    {
+      "id": 611,
+      "text": "Adaptability creates advantage when aligned."
+    },
+    {
+      "id": 612,
+      "text": "Adaptability creates advantage through consistency."
+    },
+    {
+      "id": 613,
+      "text": "Adaptability creates advantage with awareness."
+    },
+    {
+      "id": 614,
+      "text": "Adaptability creates advantage when simplified."
+    },
+    {
+      "id": 615,
+      "text": "Adaptability creates advantage over the long run."
+    },
+    {
+      "id": 616,
+      "text": "Adaptability creates advantage with deliberate action."
+    },
+    {
+      "id": 617,
+      "text": "Adaptability creates advantage through focus."
+    },
+    {
+      "id": 618,
+      "text": "Adaptability creates advantage with restraint."
+    },
+    {
+      "id": 619,
+      "text": "Adaptability creates advantage with balance."
+    },
+    {
+      "id": 620,
+      "text": "Adaptability creates advantage when repeated."
+    },
+    {
+      "id": 621,
+      "text": "Adaptability creates advantage through effort."
+    },
+    {
+      "id": 622,
+      "text": "Adaptability creates advantage when practiced."
+    },
+    {
+      "id": 623,
+      "text": "Adaptability creates advantage with patience."
+    },
+    {
+      "id": 624,
+      "text": "Adaptability creates advantage with intention daily."
+    },
+    {
+      "id": 625,
+      "text": "Adaptability creates advantage over weeks."
+    },
+    {
+      "id": 626,
+      "text": "Adaptability creates advantage over months."
+    },
+    {
+      "id": 627,
+      "text": "Adaptability creates advantage over years."
+    },
+    {
+      "id": 628,
+      "text": "Adaptability creates advantage with discipline daily."
+    },
+    {
+      "id": 629,
+      "text": "Adaptability creates advantage when prioritized."
+    },
+    {
+      "id": 630,
+      "text": "Adaptability creates advantage when refined."
+    },
+    {
+      "id": 631,
+      "text": "Adaptability creates advantage when maintained."
+    },
+    {
+      "id": 632,
+      "text": "Adaptability creates advantage with commitment."
+    },
+    {
+      "id": 633,
+      "text": "Adaptability creates advantage with thoughtful action."
+    },
+    {
+      "id": 634,
+      "text": "Adaptability creates advantage with clarity of purpose."
+    },
+    {
+      "id": 635,
+      "text": "Adaptability creates advantage without distraction."
+    },
+    {
+      "id": 636,
+      "text": "Adaptability creates advantage with steady discipline."
+    },
+    {
+      "id": 637,
+      "text": "Adaptability creates advantage with self-trust."
+    },
+    {
+      "id": 638,
+      "text": "Confidence follows action today."
+    },
+    {
+      "id": 639,
+      "text": "Confidence follows action over time."
+    },
+    {
+      "id": 640,
+      "text": "Confidence follows action when it matters."
+    },
+    {
+      "id": 641,
+      "text": "Confidence follows action in unexpected ways."
+    },
+    {
+      "id": 642,
+      "text": "Confidence follows action more than you expect."
+    },
+    {
+      "id": 643,
+      "text": "Confidence follows action sooner than planned."
+    },
+    {
+      "id": 644,
+      "text": "Confidence follows action with practice."
+    },
+    {
+      "id": 645,
+      "text": "Confidence follows action without shortcuts."
+    },
+    {
+      "id": 646,
+      "text": "Confidence follows action when you stay consistent."
+    },
+    {
+      "id": 647,
+      "text": "Confidence follows action when you stay patient."
+    },
+    {
+      "id": 648,
+      "text": "Confidence follows action with clarity."
+    },
+    {
+      "id": 649,
+      "text": "Confidence follows action with intention."
+    },
+    {
+      "id": 650,
+      "text": "Confidence follows action through discipline."
+    },
+    {
+      "id": 651,
+      "text": "Confidence follows action when you least expect it."
+    },
+    {
+      "id": 652,
+      "text": "Confidence follows action when you stay focused."
+    },
+    {
+      "id": 653,
+      "text": "Confidence follows action with steady effort."
+    },
+    {
+      "id": 654,
+      "text": "Confidence follows action without rush."
+    },
+    {
+      "id": 655,
+      "text": "Confidence follows action through learning."
+    },
+    {
+      "id": 656,
+      "text": "Confidence follows action when you commit."
+    },
+    {
+      "id": 657,
+      "text": "Confidence follows action with calm confidence."
+    },
+    {
+      "id": 658,
+      "text": "Confidence follows action step by step."
+    },
+    {
+      "id": 659,
+      "text": "Confidence follows action with repetition."
+    },
+    {
+      "id": 660,
+      "text": "Confidence follows action when aligned."
+    },
+    {
+      "id": 661,
+      "text": "Confidence follows action through consistency."
+    },
+    {
+      "id": 662,
+      "text": "Confidence follows action with awareness."
+    },
+    {
+      "id": 663,
+      "text": "Confidence follows action when simplified."
+    },
+    {
+      "id": 664,
+      "text": "Confidence follows action over the long run."
+    },
+    {
+      "id": 665,
+      "text": "Confidence follows action with deliberate action."
+    },
+    {
+      "id": 666,
+      "text": "Confidence follows action through focus."
+    },
+    {
+      "id": 667,
+      "text": "Confidence follows action with restraint."
+    },
+    {
+      "id": 668,
+      "text": "Confidence follows action with balance."
+    },
+    {
+      "id": 669,
+      "text": "Confidence follows action when repeated."
+    },
+    {
+      "id": 670,
+      "text": "Confidence follows action through effort."
+    },
+    {
+      "id": 671,
+      "text": "Confidence follows action when practiced."
+    },
+    {
+      "id": 672,
+      "text": "Confidence follows action with patience."
+    },
+    {
+      "id": 673,
+      "text": "Confidence follows action with intention daily."
+    },
+    {
+      "id": 674,
+      "text": "Confidence follows action over weeks."
+    },
+    {
+      "id": 675,
+      "text": "Confidence follows action over months."
+    },
+    {
+      "id": 676,
+      "text": "Confidence follows action over years."
+    },
+    {
+      "id": 677,
+      "text": "Confidence follows action with discipline daily."
+    },
+    {
+      "id": 678,
+      "text": "Confidence follows action when prioritized."
+    },
+    {
+      "id": 679,
+      "text": "Confidence follows action when refined."
+    },
+    {
+      "id": 680,
+      "text": "Confidence follows action when maintained."
+    },
+    {
+      "id": 681,
+      "text": "Confidence follows action with commitment."
+    },
+    {
+      "id": 682,
+      "text": "Confidence follows action with thoughtful action."
+    },
+    {
+      "id": 683,
+      "text": "Confidence follows action with clarity of purpose."
+    },
+    {
+      "id": 684,
+      "text": "Confidence follows action without distraction."
+    },
+    {
+      "id": 685,
+      "text": "Confidence follows action with steady discipline."
+    },
+    {
+      "id": 686,
+      "text": "Confidence follows action with self-trust."
+    },
+    {
+      "id": 687,
+      "text": "Preparation attracts opportunity today."
+    },
+    {
+      "id": 688,
+      "text": "Preparation attracts opportunity over time."
+    },
+    {
+      "id": 689,
+      "text": "Preparation attracts opportunity when it matters."
+    },
+    {
+      "id": 690,
+      "text": "Preparation attracts opportunity in unexpected ways."
+    },
+    {
+      "id": 691,
+      "text": "Preparation attracts opportunity more than you expect."
+    },
+    {
+      "id": 692,
+      "text": "Preparation attracts opportunity sooner than planned."
+    },
+    {
+      "id": 693,
+      "text": "Preparation attracts opportunity with practice."
+    },
+    {
+      "id": 694,
+      "text": "Preparation attracts opportunity without shortcuts."
+    },
+    {
+      "id": 695,
+      "text": "Preparation attracts opportunity when you stay consistent."
+    },
+    {
+      "id": 696,
+      "text": "Preparation attracts opportunity when you stay patient."
+    },
+    {
+      "id": 697,
+      "text": "Preparation attracts opportunity with clarity."
+    },
+    {
+      "id": 698,
+      "text": "Preparation attracts opportunity with intention."
+    },
+    {
+      "id": 699,
+      "text": "Preparation attracts opportunity through discipline."
+    },
+    {
+      "id": 700,
+      "text": "Preparation attracts opportunity when you least expect it."
+    },
+    {
+      "id": 701,
+      "text": "Preparation attracts opportunity when you stay focused."
+    },
+    {
+      "id": 702,
+      "text": "Preparation attracts opportunity with steady effort."
+    },
+    {
+      "id": 703,
+      "text": "Preparation attracts opportunity without rush."
+    },
+    {
+      "id": 704,
+      "text": "Preparation attracts opportunity through learning."
+    },
+    {
+      "id": 705,
+      "text": "Preparation attracts opportunity when you commit."
+    },
+    {
+      "id": 706,
+      "text": "Preparation attracts opportunity with calm confidence."
+    },
+    {
+      "id": 707,
+      "text": "Preparation attracts opportunity step by step."
+    },
+    {
+      "id": 708,
+      "text": "Preparation attracts opportunity with repetition."
+    },
+    {
+      "id": 709,
+      "text": "Preparation attracts opportunity when aligned."
+    },
+    {
+      "id": 710,
+      "text": "Preparation attracts opportunity through consistency."
+    },
+    {
+      "id": 711,
+      "text": "Preparation attracts opportunity with awareness."
+    },
+    {
+      "id": 712,
+      "text": "Preparation attracts opportunity when simplified."
+    },
+    {
+      "id": 713,
+      "text": "Preparation attracts opportunity over the long run."
+    },
+    {
+      "id": 714,
+      "text": "Preparation attracts opportunity with deliberate action."
+    },
+    {
+      "id": 715,
+      "text": "Preparation attracts opportunity through focus."
+    },
+    {
+      "id": 716,
+      "text": "Preparation attracts opportunity with restraint."
+    },
+    {
+      "id": 717,
+      "text": "Preparation attracts opportunity with balance."
+    },
+    {
+      "id": 718,
+      "text": "Preparation attracts opportunity when repeated."
+    },
+    {
+      "id": 719,
+      "text": "Preparation attracts opportunity through effort."
+    },
+    {
+      "id": 720,
+      "text": "Preparation attracts opportunity when practiced."
+    },
+    {
+      "id": 721,
+      "text": "Preparation attracts opportunity with patience."
+    },
+    {
+      "id": 722,
+      "text": "Preparation attracts opportunity with intention daily."
+    },
+    {
+      "id": 723,
+      "text": "Preparation attracts opportunity over weeks."
+    },
+    {
+      "id": 724,
+      "text": "Preparation attracts opportunity over months."
+    },
+    {
+      "id": 725,
+      "text": "Preparation attracts opportunity over years."
+    },
+    {
+      "id": 726,
+      "text": "Preparation attracts opportunity with discipline daily."
+    },
+    {
+      "id": 727,
+      "text": "Preparation attracts opportunity when prioritized."
+    },
+    {
+      "id": 728,
+      "text": "Preparation attracts opportunity when refined."
+    },
+    {
+      "id": 729,
+      "text": "Preparation attracts opportunity when maintained."
+    },
+    {
+      "id": 730,
+      "text": "Preparation attracts opportunity with commitment."
+    },
+    {
+      "id": 731,
+      "text": "Preparation attracts opportunity with thoughtful action."
+    },
+    {
+      "id": 732,
+      "text": "Preparation attracts opportunity with clarity of purpose."
+    },
+    {
+      "id": 733,
+      "text": "Preparation attracts opportunity without distraction."
+    },
+    {
+      "id": 734,
+      "text": "Preparation attracts opportunity with steady discipline."
+    },
+    {
+      "id": 735,
+      "text": "Preparation attracts opportunity with self-trust."
+    },
+    {
+      "id": 736,
+      "text": "Simplicity improves outcomes today."
+    },
+    {
+      "id": 737,
+      "text": "Simplicity improves outcomes over time."
+    },
+    {
+      "id": 738,
+      "text": "Simplicity improves outcomes when it matters."
+    },
+    {
+      "id": 739,
+      "text": "Simplicity improves outcomes in unexpected ways."
+    },
+    {
+      "id": 740,
+      "text": "Simplicity improves outcomes more than you expect."
+    },
+    {
+      "id": 741,
+      "text": "Simplicity improves outcomes sooner than planned."
+    },
+    {
+      "id": 742,
+      "text": "Simplicity improves outcomes with practice."
+    },
+    {
+      "id": 743,
+      "text": "Simplicity improves outcomes without shortcuts."
+    },
+    {
+      "id": 744,
+      "text": "Simplicity improves outcomes when you stay consistent."
+    },
+    {
+      "id": 745,
+      "text": "Simplicity improves outcomes when you stay patient."
+    },
+    {
+      "id": 746,
+      "text": "Simplicity improves outcomes with clarity."
+    },
+    {
+      "id": 747,
+      "text": "Simplicity improves outcomes with intention."
+    },
+    {
+      "id": 748,
+      "text": "Simplicity improves outcomes through discipline."
+    },
+    {
+      "id": 749,
+      "text": "Simplicity improves outcomes when you least expect it."
+    },
+    {
+      "id": 750,
+      "text": "Simplicity improves outcomes when you stay focused."
+    },
+    {
+      "id": 751,
+      "text": "Simplicity improves outcomes with steady effort."
+    },
+    {
+      "id": 752,
+      "text": "Simplicity improves outcomes without rush."
+    },
+    {
+      "id": 753,
+      "text": "Simplicity improves outcomes through learning."
+    },
+    {
+      "id": 754,
+      "text": "Simplicity improves outcomes when you commit."
+    },
+    {
+      "id": 755,
+      "text": "Simplicity improves outcomes with calm confidence."
+    },
+    {
+      "id": 756,
+      "text": "Simplicity improves outcomes step by step."
+    },
+    {
+      "id": 757,
+      "text": "Simplicity improves outcomes with repetition."
+    },
+    {
+      "id": 758,
+      "text": "Simplicity improves outcomes when aligned."
+    },
+    {
+      "id": 759,
+      "text": "Simplicity improves outcomes through consistency."
+    },
+    {
+      "id": 760,
+      "text": "Simplicity improves outcomes with awareness."
+    },
+    {
+      "id": 761,
+      "text": "Simplicity improves outcomes when simplified."
+    },
+    {
+      "id": 762,
+      "text": "Simplicity improves outcomes over the long run."
+    },
+    {
+      "id": 763,
+      "text": "Simplicity improves outcomes with deliberate action."
+    },
+    {
+      "id": 764,
+      "text": "Simplicity improves outcomes through focus."
+    },
+    {
+      "id": 765,
+      "text": "Simplicity improves outcomes with restraint."
+    },
+    {
+      "id": 766,
+      "text": "Simplicity improves outcomes with balance."
+    },
+    {
+      "id": 767,
+      "text": "Simplicity improves outcomes when repeated."
+    },
+    {
+      "id": 768,
+      "text": "Simplicity improves outcomes through effort."
+    },
+    {
+      "id": 769,
+      "text": "Simplicity improves outcomes when practiced."
+    },
+    {
+      "id": 770,
+      "text": "Simplicity improves outcomes with patience."
+    },
+    {
+      "id": 771,
+      "text": "Simplicity improves outcomes with intention daily."
+    },
+    {
+      "id": 772,
+      "text": "Simplicity improves outcomes over weeks."
+    },
+    {
+      "id": 773,
+      "text": "Simplicity improves outcomes over months."
+    },
+    {
+      "id": 774,
+      "text": "Simplicity improves outcomes over years."
+    },
+    {
+      "id": 775,
+      "text": "Simplicity improves outcomes with discipline daily."
+    },
+    {
+      "id": 776,
+      "text": "Simplicity improves outcomes when prioritized."
+    },
+    {
+      "id": 777,
+      "text": "Simplicity improves outcomes when refined."
+    },
+    {
+      "id": 778,
+      "text": "Simplicity improves outcomes when maintained."
+    },
+    {
+      "id": 779,
+      "text": "Simplicity improves outcomes with commitment."
+    },
+    {
+      "id": 780,
+      "text": "Simplicity improves outcomes with thoughtful action."
+    },
+    {
+      "id": 781,
+      "text": "Simplicity improves outcomes with clarity of purpose."
+    },
+    {
+      "id": 782,
+      "text": "Simplicity improves outcomes without distraction."
+    },
+    {
+      "id": 783,
+      "text": "Simplicity improves outcomes with steady discipline."
+    },
+    {
+      "id": 784,
+      "text": "Simplicity improves outcomes with self-trust."
+    },
+    {
+      "id": 785,
+      "text": "Discipline creates freedom today."
+    },
+    {
+      "id": 786,
+      "text": "Discipline creates freedom over time."
+    },
+    {
+      "id": 787,
+      "text": "Discipline creates freedom when it matters."
+    },
+    {
+      "id": 788,
+      "text": "Discipline creates freedom in unexpected ways."
+    },
+    {
+      "id": 789,
+      "text": "Discipline creates freedom more than you expect."
+    },
+    {
+      "id": 790,
+      "text": "Discipline creates freedom sooner than planned."
+    },
+    {
+      "id": 791,
+      "text": "Discipline creates freedom with practice."
+    },
+    {
+      "id": 792,
+      "text": "Discipline creates freedom without shortcuts."
+    },
+    {
+      "id": 793,
+      "text": "Discipline creates freedom when you stay consistent."
+    },
+    {
+      "id": 794,
+      "text": "Discipline creates freedom when you stay patient."
+    },
+    {
+      "id": 795,
+      "text": "Discipline creates freedom with clarity."
+    },
+    {
+      "id": 796,
+      "text": "Discipline creates freedom with intention."
+    },
+    {
+      "id": 797,
+      "text": "Discipline creates freedom through discipline."
+    },
+    {
+      "id": 798,
+      "text": "Discipline creates freedom when you least expect it."
+    },
+    {
+      "id": 799,
+      "text": "Discipline creates freedom when you stay focused."
+    },
+    {
+      "id": 800,
+      "text": "Discipline creates freedom with steady effort."
+    },
+    {
+      "id": 801,
+      "text": "Discipline creates freedom without rush."
+    },
+    {
+      "id": 802,
+      "text": "Discipline creates freedom through learning."
+    },
+    {
+      "id": 803,
+      "text": "Discipline creates freedom when you commit."
+    },
+    {
+      "id": 804,
+      "text": "Discipline creates freedom with calm confidence."
+    },
+    {
+      "id": 805,
+      "text": "Discipline creates freedom step by step."
+    },
+    {
+      "id": 806,
+      "text": "Discipline creates freedom with repetition."
+    },
+    {
+      "id": 807,
+      "text": "Discipline creates freedom when aligned."
+    },
+    {
+      "id": 808,
+      "text": "Discipline creates freedom through consistency."
+    },
+    {
+      "id": 809,
+      "text": "Discipline creates freedom with awareness."
+    },
+    {
+      "id": 810,
+      "text": "Discipline creates freedom when simplified."
+    },
+    {
+      "id": 811,
+      "text": "Discipline creates freedom over the long run."
+    },
+    {
+      "id": 812,
+      "text": "Discipline creates freedom with deliberate action."
+    },
+    {
+      "id": 813,
+      "text": "Discipline creates freedom through focus."
+    },
+    {
+      "id": 814,
+      "text": "Discipline creates freedom with restraint."
+    },
+    {
+      "id": 815,
+      "text": "Discipline creates freedom with balance."
+    },
+    {
+      "id": 816,
+      "text": "Discipline creates freedom when repeated."
+    },
+    {
+      "id": 817,
+      "text": "Discipline creates freedom through effort."
+    },
+    {
+      "id": 818,
+      "text": "Discipline creates freedom when practiced."
+    },
+    {
+      "id": 819,
+      "text": "Discipline creates freedom with patience."
+    },
+    {
+      "id": 820,
+      "text": "Discipline creates freedom with intention daily."
+    },
+    {
+      "id": 821,
+      "text": "Discipline creates freedom over weeks."
+    },
+    {
+      "id": 822,
+      "text": "Discipline creates freedom over months."
+    },
+    {
+      "id": 823,
+      "text": "Discipline creates freedom over years."
+    },
+    {
+      "id": 824,
+      "text": "Discipline creates freedom with discipline daily."
+    },
+    {
+      "id": 825,
+      "text": "Discipline creates freedom when prioritized."
+    },
+    {
+      "id": 826,
+      "text": "Discipline creates freedom when refined."
+    },
+    {
+      "id": 827,
+      "text": "Discipline creates freedom when maintained."
+    },
+    {
+      "id": 828,
+      "text": "Discipline creates freedom with commitment."
+    },
+    {
+      "id": 829,
+      "text": "Discipline creates freedom with thoughtful action."
+    },
+    {
+      "id": 830,
+      "text": "Discipline creates freedom with clarity of purpose."
+    },
+    {
+      "id": 831,
+      "text": "Discipline creates freedom without distraction."
+    },
+    {
+      "id": 832,
+      "text": "Discipline creates freedom with steady discipline."
+    },
+    {
+      "id": 833,
+      "text": "Discipline creates freedom with self-trust."
+    },
+    {
+      "id": 834,
+      "text": "Curiosity opens doors today."
+    },
+    {
+      "id": 835,
+      "text": "Curiosity opens doors over time."
+    },
+    {
+      "id": 836,
+      "text": "Curiosity opens doors when it matters."
+    },
+    {
+      "id": 837,
+      "text": "Curiosity opens doors in unexpected ways."
+    },
+    {
+      "id": 838,
+      "text": "Curiosity opens doors more than you expect."
+    },
+    {
+      "id": 839,
+      "text": "Curiosity opens doors sooner than planned."
+    },
+    {
+      "id": 840,
+      "text": "Curiosity opens doors with practice."
+    },
+    {
+      "id": 841,
+      "text": "Curiosity opens doors without shortcuts."
+    },
+    {
+      "id": 842,
+      "text": "Curiosity opens doors when you stay consistent."
+    },
+    {
+      "id": 843,
+      "text": "Curiosity opens doors when you stay patient."
+    },
+    {
+      "id": 844,
+      "text": "Curiosity opens doors with clarity."
+    },
+    {
+      "id": 845,
+      "text": "Curiosity opens doors with intention."
+    },
+    {
+      "id": 846,
+      "text": "Curiosity opens doors through discipline."
+    },
+    {
+      "id": 847,
+      "text": "Curiosity opens doors when you least expect it."
+    },
+    {
+      "id": 848,
+      "text": "Curiosity opens doors when you stay focused."
+    },
+    {
+      "id": 849,
+      "text": "Curiosity opens doors with steady effort."
+    },
+    {
+      "id": 850,
+      "text": "Curiosity opens doors without rush."
+    },
+    {
+      "id": 851,
+      "text": "Curiosity opens doors through learning."
+    },
+    {
+      "id": 852,
+      "text": "Curiosity opens doors when you commit."
+    },
+    {
+      "id": 853,
+      "text": "Curiosity opens doors with calm confidence."
+    },
+    {
+      "id": 854,
+      "text": "Curiosity opens doors step by step."
+    },
+    {
+      "id": 855,
+      "text": "Curiosity opens doors with repetition."
+    },
+    {
+      "id": 856,
+      "text": "Curiosity opens doors when aligned."
+    },
+    {
+      "id": 857,
+      "text": "Curiosity opens doors through consistency."
+    },
+    {
+      "id": 858,
+      "text": "Curiosity opens doors with awareness."
+    },
+    {
+      "id": 859,
+      "text": "Curiosity opens doors when simplified."
+    },
+    {
+      "id": 860,
+      "text": "Curiosity opens doors over the long run."
+    },
+    {
+      "id": 861,
+      "text": "Curiosity opens doors with deliberate action."
+    },
+    {
+      "id": 862,
+      "text": "Curiosity opens doors through focus."
+    },
+    {
+      "id": 863,
+      "text": "Curiosity opens doors with restraint."
+    },
+    {
+      "id": 864,
+      "text": "Curiosity opens doors with balance."
+    },
+    {
+      "id": 865,
+      "text": "Curiosity opens doors when repeated."
+    },
+    {
+      "id": 866,
+      "text": "Curiosity opens doors through effort."
+    },
+    {
+      "id": 867,
+      "text": "Curiosity opens doors when practiced."
+    },
+    {
+      "id": 868,
+      "text": "Curiosity opens doors with patience."
+    },
+    {
+      "id": 869,
+      "text": "Curiosity opens doors with intention daily."
+    },
+    {
+      "id": 870,
+      "text": "Curiosity opens doors over weeks."
+    },
+    {
+      "id": 871,
+      "text": "Curiosity opens doors over months."
+    },
+    {
+      "id": 872,
+      "text": "Curiosity opens doors over years."
+    },
+    {
+      "id": 873,
+      "text": "Curiosity opens doors with discipline daily."
+    },
+    {
+      "id": 874,
+      "text": "Curiosity opens doors when prioritized."
+    },
+    {
+      "id": 875,
+      "text": "Curiosity opens doors when refined."
+    },
+    {
+      "id": 876,
+      "text": "Curiosity opens doors when maintained."
+    },
+    {
+      "id": 877,
+      "text": "Curiosity opens doors with commitment."
+    },
+    {
+      "id": 878,
+      "text": "Curiosity opens doors with thoughtful action."
+    },
+    {
+      "id": 879,
+      "text": "Curiosity opens doors with clarity of purpose."
+    },
+    {
+      "id": 880,
+      "text": "Curiosity opens doors without distraction."
+    },
+    {
+      "id": 881,
+      "text": "Curiosity opens doors with steady discipline."
+    },
+    {
+      "id": 882,
+      "text": "Curiosity opens doors with self-trust."
+    },
+    {
+      "id": 883,
+      "text": "Momentum favors action today."
+    },
+    {
+      "id": 884,
+      "text": "Momentum favors action over time."
+    },
+    {
+      "id": 885,
+      "text": "Momentum favors action when it matters."
+    },
+    {
+      "id": 886,
+      "text": "Momentum favors action in unexpected ways."
+    },
+    {
+      "id": 887,
+      "text": "Momentum favors action more than you expect."
+    },
+    {
+      "id": 888,
+      "text": "Momentum favors action sooner than planned."
+    },
+    {
+      "id": 889,
+      "text": "Momentum favors action with practice."
+    },
+    {
+      "id": 890,
+      "text": "Momentum favors action without shortcuts."
+    },
+    {
+      "id": 891,
+      "text": "Momentum favors action when you stay consistent."
+    },
+    {
+      "id": 892,
+      "text": "Momentum favors action when you stay patient."
+    },
+    {
+      "id": 893,
+      "text": "Momentum favors action with clarity."
+    },
+    {
+      "id": 894,
+      "text": "Momentum favors action with intention."
+    },
+    {
+      "id": 895,
+      "text": "Momentum favors action through discipline."
+    },
+    {
+      "id": 896,
+      "text": "Momentum favors action when you least expect it."
+    },
+    {
+      "id": 897,
+      "text": "Momentum favors action when you stay focused."
+    },
+    {
+      "id": 898,
+      "text": "Momentum favors action with steady effort."
+    },
+    {
+      "id": 899,
+      "text": "Momentum favors action without rush."
+    },
+    {
+      "id": 900,
+      "text": "Momentum favors action through learning."
+    },
+    {
+      "id": 901,
+      "text": "Momentum favors action when you commit."
+    },
+    {
+      "id": 902,
+      "text": "Momentum favors action with calm confidence."
+    },
+    {
+      "id": 903,
+      "text": "Momentum favors action step by step."
+    },
+    {
+      "id": 904,
+      "text": "Momentum favors action with repetition."
+    },
+    {
+      "id": 905,
+      "text": "Momentum favors action when aligned."
+    },
+    {
+      "id": 906,
+      "text": "Momentum favors action through consistency."
+    },
+    {
+      "id": 907,
+      "text": "Momentum favors action with awareness."
+    },
+    {
+      "id": 908,
+      "text": "Momentum favors action when simplified."
+    },
+    {
+      "id": 909,
+      "text": "Momentum favors action over the long run."
+    },
+    {
+      "id": 910,
+      "text": "Momentum favors action with deliberate action."
+    },
+    {
+      "id": 911,
+      "text": "Momentum favors action through focus."
+    },
+    {
+      "id": 912,
+      "text": "Momentum favors action with restraint."
+    },
+    {
+      "id": 913,
+      "text": "Momentum favors action with balance."
+    },
+    {
+      "id": 914,
+      "text": "Momentum favors action when repeated."
+    },
+    {
+      "id": 915,
+      "text": "Momentum favors action through effort."
+    },
+    {
+      "id": 916,
+      "text": "Momentum favors action when practiced."
+    },
+    {
+      "id": 917,
+      "text": "Momentum favors action with patience."
+    },
+    {
+      "id": 918,
+      "text": "Momentum favors action with intention daily."
+    },
+    {
+      "id": 919,
+      "text": "Momentum favors action over weeks."
+    },
+    {
+      "id": 920,
+      "text": "Momentum favors action over months."
+    },
+    {
+      "id": 921,
+      "text": "Momentum favors action over years."
+    },
+    {
+      "id": 922,
+      "text": "Momentum favors action with discipline daily."
+    },
+    {
+      "id": 923,
+      "text": "Momentum favors action when prioritized."
+    },
+    {
+      "id": 924,
+      "text": "Momentum favors action when refined."
+    },
+    {
+      "id": 925,
+      "text": "Momentum favors action when maintained."
+    },
+    {
+      "id": 926,
+      "text": "Momentum favors action with commitment."
+    },
+    {
+      "id": 927,
+      "text": "Momentum favors action with thoughtful action."
+    },
+    {
+      "id": 928,
+      "text": "Momentum favors action with clarity of purpose."
+    },
+    {
+      "id": 929,
+      "text": "Momentum favors action without distraction."
+    },
+    {
+      "id": 930,
+      "text": "Momentum favors action with steady discipline."
+    },
+    {
+      "id": 931,
+      "text": "Momentum favors action with self-trust."
+    },
+    {
+      "id": 932,
+      "text": "Balance improves clarity today."
+    },
+    {
+      "id": 933,
+      "text": "Balance improves clarity over time."
+    },
+    {
+      "id": 934,
+      "text": "Balance improves clarity when it matters."
+    },
+    {
+      "id": 935,
+      "text": "Balance improves clarity in unexpected ways."
+    },
+    {
+      "id": 936,
+      "text": "Balance improves clarity more than you expect."
+    },
+    {
+      "id": 937,
+      "text": "Balance improves clarity sooner than planned."
+    },
+    {
+      "id": 938,
+      "text": "Balance improves clarity with practice."
+    },
+    {
+      "id": 939,
+      "text": "Balance improves clarity without shortcuts."
+    },
+    {
+      "id": 940,
+      "text": "Balance improves clarity when you stay consistent."
+    },
+    {
+      "id": 941,
+      "text": "Balance improves clarity when you stay patient."
+    },
+    {
+      "id": 942,
+      "text": "Balance improves clarity with clarity."
+    },
+    {
+      "id": 943,
+      "text": "Balance improves clarity with intention."
+    },
+    {
+      "id": 944,
+      "text": "Balance improves clarity through discipline."
+    },
+    {
+      "id": 945,
+      "text": "Balance improves clarity when you least expect it."
+    },
+    {
+      "id": 946,
+      "text": "Balance improves clarity when you stay focused."
+    },
+    {
+      "id": 947,
+      "text": "Balance improves clarity with steady effort."
+    },
+    {
+      "id": 948,
+      "text": "Balance improves clarity without rush."
+    },
+    {
+      "id": 949,
+      "text": "Balance improves clarity through learning."
+    },
+    {
+      "id": 950,
+      "text": "Balance improves clarity when you commit."
+    },
+    {
+      "id": 951,
+      "text": "Balance improves clarity with calm confidence."
+    },
+    {
+      "id": 952,
+      "text": "Balance improves clarity step by step."
+    },
+    {
+      "id": 953,
+      "text": "Balance improves clarity with repetition."
+    },
+    {
+      "id": 954,
+      "text": "Balance improves clarity when aligned."
+    },
+    {
+      "id": 955,
+      "text": "Balance improves clarity through consistency."
+    },
+    {
+      "id": 956,
+      "text": "Balance improves clarity with awareness."
+    },
+    {
+      "id": 957,
+      "text": "Balance improves clarity when simplified."
+    },
+    {
+      "id": 958,
+      "text": "Balance improves clarity over the long run."
+    },
+    {
+      "id": 959,
+      "text": "Balance improves clarity with deliberate action."
+    },
+    {
+      "id": 960,
+      "text": "Balance improves clarity through focus."
+    },
+    {
+      "id": 961,
+      "text": "Balance improves clarity with restraint."
+    },
+    {
+      "id": 962,
+      "text": "Balance improves clarity with balance."
+    },
+    {
+      "id": 963,
+      "text": "Balance improves clarity when repeated."
+    },
+    {
+      "id": 964,
+      "text": "Balance improves clarity through effort."
+    },
+    {
+      "id": 965,
+      "text": "Balance improves clarity when practiced."
+    },
+    {
+      "id": 966,
+      "text": "Balance improves clarity with patience."
+    },
+    {
+      "id": 967,
+      "text": "Balance improves clarity with intention daily."
+    },
+    {
+      "id": 968,
+      "text": "Balance improves clarity over weeks."
+    },
+    {
+      "id": 969,
+      "text": "Balance improves clarity over months."
+    },
+    {
+      "id": 970,
+      "text": "Balance improves clarity over years."
+    },
+    {
+      "id": 971,
+      "text": "Balance improves clarity with discipline daily."
+    },
+    {
+      "id": 972,
+      "text": "Balance improves clarity when prioritized."
+    },
+    {
+      "id": 973,
+      "text": "Balance improves clarity when refined."
+    },
+    {
+      "id": 974,
+      "text": "Balance improves clarity when maintained."
+    },
+    {
+      "id": 975,
+      "text": "Balance improves clarity with commitment."
+    },
+    {
+      "id": 976,
+      "text": "Balance improves clarity with thoughtful action."
+    },
+    {
+      "id": 977,
+      "text": "Balance improves clarity with clarity of purpose."
+    },
+    {
+      "id": 978,
+      "text": "Balance improves clarity without distraction."
+    },
+    {
+      "id": 979,
+      "text": "Balance improves clarity with steady discipline."
+    },
+    {
+      "id": 980,
+      "text": "Balance improves clarity with self-trust."
+    },
+    {
+      "id": 981,
+      "text": "Intentional choices matter today."
+    },
+    {
+      "id": 982,
+      "text": "Intentional choices matter over time."
+    },
+    {
+      "id": 983,
+      "text": "Intentional choices matter when it matters."
+    },
+    {
+      "id": 984,
+      "text": "Intentional choices matter in unexpected ways."
+    },
+    {
+      "id": 985,
+      "text": "Intentional choices matter more than you expect."
+    },
+    {
+      "id": 986,
+      "text": "Intentional choices matter sooner than planned."
+    },
+    {
+      "id": 987,
+      "text": "Intentional choices matter with practice."
+    },
+    {
+      "id": 988,
+      "text": "Intentional choices matter without shortcuts."
+    },
+    {
+      "id": 989,
+      "text": "Intentional choices matter when you stay consistent."
+    },
+    {
+      "id": 990,
+      "text": "Intentional choices matter when you stay patient."
+    },
+    {
+      "id": 991,
+      "text": "Intentional choices matter with clarity."
+    },
+    {
+      "id": 992,
+      "text": "Intentional choices matter with intention."
+    },
+    {
+      "id": 993,
+      "text": "Intentional choices matter through discipline."
+    },
+    {
+      "id": 994,
+      "text": "Intentional choices matter when you least expect it."
+    },
+    {
+      "id": 995,
+      "text": "Intentional choices matter when you stay focused."
+    },
+    {
+      "id": 996,
+      "text": "Intentional choices matter with steady effort."
+    },
+    {
+      "id": 997,
+      "text": "Intentional choices matter without rush."
+    },
+    {
+      "id": 998,
+      "text": "Intentional choices matter through learning."
+    },
+    {
+      "id": 999,
+      "text": "Intentional choices matter when you commit."
+    },
+    {
+      "id": 1000,
+      "text": "Intentional choices matter with calm confidence."
+    },
+    {
+      "id": 1001,
+      "text": "Intentional choices matter step by step."
+    },
+    {
+      "id": 1002,
+      "text": "Intentional choices matter with repetition."
+    },
+    {
+      "id": 1003,
+      "text": "Intentional choices matter when aligned."
+    },
+    {
+      "id": 1004,
+      "text": "Intentional choices matter through consistency."
+    },
+    {
+      "id": 1005,
+      "text": "Intentional choices matter with awareness."
+    },
+    {
+      "id": 1006,
+      "text": "Intentional choices matter when simplified."
+    },
+    {
+      "id": 1007,
+      "text": "Intentional choices matter over the long run."
+    },
+    {
+      "id": 1008,
+      "text": "Intentional choices matter with deliberate action."
+    },
+    {
+      "id": 1009,
+      "text": "Intentional choices matter through focus."
+    },
+    {
+      "id": 1010,
+      "text": "Intentional choices matter with restraint."
+    },
+    {
+      "id": 1011,
+      "text": "Intentional choices matter with balance."
+    },
+    {
+      "id": 1012,
+      "text": "Intentional choices matter when repeated."
+    },
+    {
+      "id": 1013,
+      "text": "Intentional choices matter through effort."
+    },
+    {
+      "id": 1014,
+      "text": "Intentional choices matter when practiced."
+    },
+    {
+      "id": 1015,
+      "text": "Intentional choices matter with patience."
+    },
+    {
+      "id": 1016,
+      "text": "Intentional choices matter with intention daily."
+    },
+    {
+      "id": 1017,
+      "text": "Intentional choices matter over weeks."
+    },
+    {
+      "id": 1018,
+      "text": "Intentional choices matter over months."
+    },
+    {
+      "id": 1019,
+      "text": "Intentional choices matter over years."
+    },
+    {
+      "id": 1020,
+      "text": "Intentional choices matter with discipline daily."
+    },
+    {
+      "id": 1021,
+      "text": "Intentional choices matter when prioritized."
+    },
+    {
+      "id": 1022,
+      "text": "Intentional choices matter when refined."
+    },
+    {
+      "id": 1023,
+      "text": "Intentional choices matter when maintained."
+    },
+    {
+      "id": 1024,
+      "text": "Intentional choices matter with commitment."
+    },
+    {
+      "id": 1025,
+      "text": "Intentional choices matter with thoughtful action."
+    },
+    {
+      "id": 1026,
+      "text": "Intentional choices matter with clarity of purpose."
+    },
+    {
+      "id": 1027,
+      "text": "Intentional choices matter without distraction."
+    },
+    {
+      "id": 1028,
+      "text": "Intentional choices matter with steady discipline."
+    },
+    {
+      "id": 1029,
+      "text": "Intentional choices matter with self-trust."
+    },
+    {
+      "id": 1030,
+      "text": "Progress is not linear today."
+    },
+    {
+      "id": 1031,
+      "text": "Progress is not linear over time."
+    },
+    {
+      "id": 1032,
+      "text": "Progress is not linear when it matters."
+    },
+    {
+      "id": 1033,
+      "text": "Progress is not linear in unexpected ways."
+    },
+    {
+      "id": 1034,
+      "text": "Progress is not linear more than you expect."
+    },
+    {
+      "id": 1035,
+      "text": "Progress is not linear sooner than planned."
+    },
+    {
+      "id": 1036,
+      "text": "Progress is not linear with practice."
+    },
+    {
+      "id": 1037,
+      "text": "Progress is not linear without shortcuts."
+    },
+    {
+      "id": 1038,
+      "text": "Progress is not linear when you stay consistent."
+    },
+    {
+      "id": 1039,
+      "text": "Progress is not linear when you stay patient."
+    },
+    {
+      "id": 1040,
+      "text": "Progress is not linear with clarity."
+    },
+    {
+      "id": 1041,
+      "text": "Progress is not linear with intention."
+    },
+    {
+      "id": 1042,
+      "text": "Progress is not linear through discipline."
+    },
+    {
+      "id": 1043,
+      "text": "Progress is not linear when you least expect it."
+    },
+    {
+      "id": 1044,
+      "text": "Progress is not linear when you stay focused."
+    },
+    {
+      "id": 1045,
+      "text": "Progress is not linear with steady effort."
+    },
+    {
+      "id": 1046,
+      "text": "Progress is not linear without rush."
+    },
+    {
+      "id": 1047,
+      "text": "Progress is not linear through learning."
+    },
+    {
+      "id": 1048,
+      "text": "Progress is not linear when you commit."
+    },
+    {
+      "id": 1049,
+      "text": "Progress is not linear with calm confidence."
+    },
+    {
+      "id": 1050,
+      "text": "Progress is not linear step by step."
+    },
+    {
+      "id": 1051,
+      "text": "Progress is not linear with repetition."
+    },
+    {
+      "id": 1052,
+      "text": "Progress is not linear when aligned."
+    },
+    {
+      "id": 1053,
+      "text": "Progress is not linear through consistency."
+    },
+    {
+      "id": 1054,
+      "text": "Progress is not linear with awareness."
+    },
+    {
+      "id": 1055,
+      "text": "Progress is not linear when simplified."
+    },
+    {
+      "id": 1056,
+      "text": "Progress is not linear over the long run."
+    },
+    {
+      "id": 1057,
+      "text": "Progress is not linear with deliberate action."
+    },
+    {
+      "id": 1058,
+      "text": "Progress is not linear through focus."
+    },
+    {
+      "id": 1059,
+      "text": "Progress is not linear with restraint."
+    },
+    {
+      "id": 1060,
+      "text": "Progress is not linear with balance."
+    },
+    {
+      "id": 1061,
+      "text": "Progress is not linear when repeated."
+    },
+    {
+      "id": 1062,
+      "text": "Progress is not linear through effort."
+    },
+    {
+      "id": 1063,
+      "text": "Progress is not linear when practiced."
+    },
+    {
+      "id": 1064,
+      "text": "Progress is not linear with patience."
+    },
+    {
+      "id": 1065,
+      "text": "Progress is not linear with intention daily."
+    },
+    {
+      "id": 1066,
+      "text": "Progress is not linear over weeks."
+    },
+    {
+      "id": 1067,
+      "text": "Progress is not linear over months."
+    },
+    {
+      "id": 1068,
+      "text": "Progress is not linear over years."
+    },
+    {
+      "id": 1069,
+      "text": "Progress is not linear with discipline daily."
+    },
+    {
+      "id": 1070,
+      "text": "Progress is not linear when prioritized."
+    },
+    {
+      "id": 1071,
+      "text": "Progress is not linear when refined."
+    },
+    {
+      "id": 1072,
+      "text": "Progress is not linear when maintained."
+    },
+    {
+      "id": 1073,
+      "text": "Progress is not linear with commitment."
+    },
+    {
+      "id": 1074,
+      "text": "Progress is not linear with thoughtful action."
+    },
+    {
+      "id": 1075,
+      "text": "Progress is not linear with clarity of purpose."
+    },
+    {
+      "id": 1076,
+      "text": "Progress is not linear without distraction."
+    },
+    {
+      "id": 1077,
+      "text": "Progress is not linear with steady discipline."
+    },
+    {
+      "id": 1078,
+      "text": "Progress is not linear with self-trust."
+    },
+    {
+      "id": 1079,
+      "text": "Habits shape outcomes today."
+    },
+    {
+      "id": 1080,
+      "text": "Habits shape outcomes over time."
+    },
+    {
+      "id": 1081,
+      "text": "Habits shape outcomes when it matters."
+    },
+    {
+      "id": 1082,
+      "text": "Habits shape outcomes in unexpected ways."
+    },
+    {
+      "id": 1083,
+      "text": "Habits shape outcomes more than you expect."
+    },
+    {
+      "id": 1084,
+      "text": "Habits shape outcomes sooner than planned."
+    },
+    {
+      "id": 1085,
+      "text": "Habits shape outcomes with practice."
+    },
+    {
+      "id": 1086,
+      "text": "Habits shape outcomes without shortcuts."
+    },
+    {
+      "id": 1087,
+      "text": "Habits shape outcomes when you stay consistent."
+    },
+    {
+      "id": 1088,
+      "text": "Habits shape outcomes when you stay patient."
+    },
+    {
+      "id": 1089,
+      "text": "Habits shape outcomes with clarity."
+    },
+    {
+      "id": 1090,
+      "text": "Habits shape outcomes with intention."
+    },
+    {
+      "id": 1091,
+      "text": "Habits shape outcomes through discipline."
+    },
+    {
+      "id": 1092,
+      "text": "Habits shape outcomes when you least expect it."
+    },
+    {
+      "id": 1093,
+      "text": "Habits shape outcomes when you stay focused."
+    },
+    {
+      "id": 1094,
+      "text": "Habits shape outcomes with steady effort."
+    },
+    {
+      "id": 1095,
+      "text": "Habits shape outcomes without rush."
+    },
+    {
+      "id": 1096,
+      "text": "Habits shape outcomes through learning."
+    },
+    {
+      "id": 1097,
+      "text": "Habits shape outcomes when you commit."
+    },
+    {
+      "id": 1098,
+      "text": "Habits shape outcomes with calm confidence."
+    },
+    {
+      "id": 1099,
+      "text": "Habits shape outcomes step by step."
+    },
+    {
+      "id": 1100,
+      "text": "Habits shape outcomes with repetition."
+    },
+    {
+      "id": 1101,
+      "text": "Habits shape outcomes when aligned."
+    },
+    {
+      "id": 1102,
+      "text": "Habits shape outcomes through consistency."
+    },
+    {
+      "id": 1103,
+      "text": "Habits shape outcomes with awareness."
+    },
+    {
+      "id": 1104,
+      "text": "Habits shape outcomes when simplified."
+    },
+    {
+      "id": 1105,
+      "text": "Habits shape outcomes over the long run."
+    },
+    {
+      "id": 1106,
+      "text": "Habits shape outcomes with deliberate action."
+    },
+    {
+      "id": 1107,
+      "text": "Habits shape outcomes through focus."
+    },
+    {
+      "id": 1108,
+      "text": "Habits shape outcomes with restraint."
+    },
+    {
+      "id": 1109,
+      "text": "Habits shape outcomes with balance."
+    },
+    {
+      "id": 1110,
+      "text": "Habits shape outcomes when repeated."
+    },
+    {
+      "id": 1111,
+      "text": "Habits shape outcomes through effort."
+    },
+    {
+      "id": 1112,
+      "text": "Habits shape outcomes when practiced."
+    },
+    {
+      "id": 1113,
+      "text": "Habits shape outcomes with patience."
+    },
+    {
+      "id": 1114,
+      "text": "Habits shape outcomes with intention daily."
+    },
+    {
+      "id": 1115,
+      "text": "Habits shape outcomes over weeks."
+    },
+    {
+      "id": 1116,
+      "text": "Habits shape outcomes over months."
+    },
+    {
+      "id": 1117,
+      "text": "Habits shape outcomes over years."
+    },
+    {
+      "id": 1118,
+      "text": "Habits shape outcomes with discipline daily."
+    },
+    {
+      "id": 1119,
+      "text": "Habits shape outcomes when prioritized."
+    },
+    {
+      "id": 1120,
+      "text": "Habits shape outcomes when refined."
+    },
+    {
+      "id": 1121,
+      "text": "Habits shape outcomes when maintained."
+    },
+    {
+      "id": 1122,
+      "text": "Habits shape outcomes with commitment."
+    },
+    {
+      "id": 1123,
+      "text": "Habits shape outcomes with thoughtful action."
+    },
+    {
+      "id": 1124,
+      "text": "Habits shape outcomes with clarity of purpose."
+    },
+    {
+      "id": 1125,
+      "text": "Habits shape outcomes without distraction."
+    },
+    {
+      "id": 1126,
+      "text": "Habits shape outcomes with steady discipline."
+    },
+    {
+      "id": 1127,
+      "text": "Habits shape outcomes with self-trust."
+    },
+    {
+      "id": 1128,
+      "text": "Effort ages well today."
+    },
+    {
+      "id": 1129,
+      "text": "Effort ages well over time."
+    },
+    {
+      "id": 1130,
+      "text": "Effort ages well when it matters."
+    },
+    {
+      "id": 1131,
+      "text": "Effort ages well in unexpected ways."
+    },
+    {
+      "id": 1132,
+      "text": "Effort ages well more than you expect."
+    },
+    {
+      "id": 1133,
+      "text": "Effort ages well sooner than planned."
+    },
+    {
+      "id": 1134,
+      "text": "Effort ages well with practice."
+    },
+    {
+      "id": 1135,
+      "text": "Effort ages well without shortcuts."
+    },
+    {
+      "id": 1136,
+      "text": "Effort ages well when you stay consistent."
+    },
+    {
+      "id": 1137,
+      "text": "Effort ages well when you stay patient."
+    },
+    {
+      "id": 1138,
+      "text": "Effort ages well with clarity."
+    },
+    {
+      "id": 1139,
+      "text": "Effort ages well with intention."
+    },
+    {
+      "id": 1140,
+      "text": "Effort ages well through discipline."
+    },
+    {
+      "id": 1141,
+      "text": "Effort ages well when you least expect it."
+    },
+    {
+      "id": 1142,
+      "text": "Effort ages well when you stay focused."
+    },
+    {
+      "id": 1143,
+      "text": "Effort ages well with steady effort."
+    },
+    {
+      "id": 1144,
+      "text": "Effort ages well without rush."
+    },
+    {
+      "id": 1145,
+      "text": "Effort ages well through learning."
+    },
+    {
+      "id": 1146,
+      "text": "Effort ages well when you commit."
+    },
+    {
+      "id": 1147,
+      "text": "Effort ages well with calm confidence."
+    },
+    {
+      "id": 1148,
+      "text": "Effort ages well step by step."
+    },
+    {
+      "id": 1149,
+      "text": "Effort ages well with repetition."
+    },
+    {
+      "id": 1150,
+      "text": "Effort ages well when aligned."
+    },
+    {
+      "id": 1151,
+      "text": "Effort ages well through consistency."
+    },
+    {
+      "id": 1152,
+      "text": "Effort ages well with awareness."
+    },
+    {
+      "id": 1153,
+      "text": "Effort ages well when simplified."
+    },
+    {
+      "id": 1154,
+      "text": "Effort ages well over the long run."
+    },
+    {
+      "id": 1155,
+      "text": "Effort ages well with deliberate action."
+    },
+    {
+      "id": 1156,
+      "text": "Effort ages well through focus."
+    },
+    {
+      "id": 1157,
+      "text": "Effort ages well with restraint."
+    },
+    {
+      "id": 1158,
+      "text": "Effort ages well with balance."
+    },
+    {
+      "id": 1159,
+      "text": "Effort ages well when repeated."
+    },
+    {
+      "id": 1160,
+      "text": "Effort ages well through effort."
+    },
+    {
+      "id": 1161,
+      "text": "Effort ages well when practiced."
+    },
+    {
+      "id": 1162,
+      "text": "Effort ages well with patience."
+    },
+    {
+      "id": 1163,
+      "text": "Effort ages well with intention daily."
+    },
+    {
+      "id": 1164,
+      "text": "Effort ages well over weeks."
+    },
+    {
+      "id": 1165,
+      "text": "Effort ages well over months."
+    },
+    {
+      "id": 1166,
+      "text": "Effort ages well over years."
+    },
+    {
+      "id": 1167,
+      "text": "Effort ages well with discipline daily."
+    },
+    {
+      "id": 1168,
+      "text": "Effort ages well when prioritized."
+    },
+    {
+      "id": 1169,
+      "text": "Effort ages well when refined."
+    },
+    {
+      "id": 1170,
+      "text": "Effort ages well when maintained."
+    },
+    {
+      "id": 1171,
+      "text": "Effort ages well with commitment."
+    },
+    {
+      "id": 1172,
+      "text": "Effort ages well with thoughtful action."
+    },
+    {
+      "id": 1173,
+      "text": "Effort ages well with clarity of purpose."
+    },
+    {
+      "id": 1174,
+      "text": "Effort ages well without distraction."
+    },
+    {
+      "id": 1175,
+      "text": "Effort ages well with steady discipline."
+    },
+    {
+      "id": 1176,
+      "text": "Effort ages well with self-trust."
+    },
+    {
+      "id": 1177,
+      "text": "Clarity reduces stress today."
+    },
+    {
+      "id": 1178,
+      "text": "Clarity reduces stress over time."
+    },
+    {
+      "id": 1179,
+      "text": "Clarity reduces stress when it matters."
+    },
+    {
+      "id": 1180,
+      "text": "Clarity reduces stress in unexpected ways."
+    },
+    {
+      "id": 1181,
+      "text": "Clarity reduces stress more than you expect."
+    },
+    {
+      "id": 1182,
+      "text": "Clarity reduces stress sooner than planned."
+    },
+    {
+      "id": 1183,
+      "text": "Clarity reduces stress with practice."
+    },
+    {
+      "id": 1184,
+      "text": "Clarity reduces stress without shortcuts."
+    },
+    {
+      "id": 1185,
+      "text": "Clarity reduces stress when you stay consistent."
+    },
+    {
+      "id": 1186,
+      "text": "Clarity reduces stress when you stay patient."
+    },
+    {
+      "id": 1187,
+      "text": "Clarity reduces stress with clarity."
+    },
+    {
+      "id": 1188,
+      "text": "Clarity reduces stress with intention."
+    },
+    {
+      "id": 1189,
+      "text": "Clarity reduces stress through discipline."
+    },
+    {
+      "id": 1190,
+      "text": "Clarity reduces stress when you least expect it."
+    },
+    {
+      "id": 1191,
+      "text": "Clarity reduces stress when you stay focused."
+    },
+    {
+      "id": 1192,
+      "text": "Clarity reduces stress with steady effort."
+    },
+    {
+      "id": 1193,
+      "text": "Clarity reduces stress without rush."
+    },
+    {
+      "id": 1194,
+      "text": "Clarity reduces stress through learning."
+    },
+    {
+      "id": 1195,
+      "text": "Clarity reduces stress when you commit."
+    },
+    {
+      "id": 1196,
+      "text": "Clarity reduces stress with calm confidence."
+    },
+    {
+      "id": 1197,
+      "text": "Clarity reduces stress step by step."
+    },
+    {
+      "id": 1198,
+      "text": "Clarity reduces stress with repetition."
+    },
+    {
+      "id": 1199,
+      "text": "Clarity reduces stress when aligned."
+    },
+    {
+      "id": 1200,
+      "text": "Clarity reduces stress through consistency."
+    },
+    {
+      "id": 1201,
+      "text": "Clarity reduces stress with awareness."
+    },
+    {
+      "id": 1202,
+      "text": "Clarity reduces stress when simplified."
+    },
+    {
+      "id": 1203,
+      "text": "Clarity reduces stress over the long run."
+    },
+    {
+      "id": 1204,
+      "text": "Clarity reduces stress with deliberate action."
+    },
+    {
+      "id": 1205,
+      "text": "Clarity reduces stress through focus."
+    },
+    {
+      "id": 1206,
+      "text": "Clarity reduces stress with restraint."
+    },
+    {
+      "id": 1207,
+      "text": "Clarity reduces stress with balance."
+    },
+    {
+      "id": 1208,
+      "text": "Clarity reduces stress when repeated."
+    },
+    {
+      "id": 1209,
+      "text": "Clarity reduces stress through effort."
+    },
+    {
+      "id": 1210,
+      "text": "Clarity reduces stress when practiced."
+    },
+    {
+      "id": 1211,
+      "text": "Clarity reduces stress with patience."
+    },
+    {
+      "id": 1212,
+      "text": "Clarity reduces stress with intention daily."
+    },
+    {
+      "id": 1213,
+      "text": "Clarity reduces stress over weeks."
+    },
+    {
+      "id": 1214,
+      "text": "Clarity reduces stress over months."
+    },
+    {
+      "id": 1215,
+      "text": "Clarity reduces stress over years."
+    },
+    {
+      "id": 1216,
+      "text": "Clarity reduces stress with discipline daily."
+    },
+    {
+      "id": 1217,
+      "text": "Clarity reduces stress when prioritized."
+    },
+    {
+      "id": 1218,
+      "text": "Clarity reduces stress when refined."
+    },
+    {
+      "id": 1219,
+      "text": "Clarity reduces stress when maintained."
+    },
+    {
+      "id": 1220,
+      "text": "Clarity reduces stress with commitment."
+    },
+    {
+      "id": 1221,
+      "text": "Clarity reduces stress with thoughtful action."
+    },
+    {
+      "id": 1222,
+      "text": "Clarity reduces stress with clarity of purpose."
+    },
+    {
+      "id": 1223,
+      "text": "Clarity reduces stress without distraction."
+    },
+    {
+      "id": 1224,
+      "text": "Clarity reduces stress with steady discipline."
+    },
+    {
+      "id": 1225,
+      "text": "Clarity reduces stress with self-trust."
+    },
+    {
+      "id": 1226,
+      "text": "Patience sharpens judgment today."
+    },
+    {
+      "id": 1227,
+      "text": "Patience sharpens judgment over time."
+    },
+    {
+      "id": 1228,
+      "text": "Patience sharpens judgment when it matters."
+    },
+    {
+      "id": 1229,
+      "text": "Patience sharpens judgment in unexpected ways."
+    },
+    {
+      "id": 1230,
+      "text": "Patience sharpens judgment more than you expect."
+    },
+    {
+      "id": 1231,
+      "text": "Patience sharpens judgment sooner than planned."
+    },
+    {
+      "id": 1232,
+      "text": "Patience sharpens judgment with practice."
+    },
+    {
+      "id": 1233,
+      "text": "Patience sharpens judgment without shortcuts."
+    },
+    {
+      "id": 1234,
+      "text": "Patience sharpens judgment when you stay consistent."
+    },
+    {
+      "id": 1235,
+      "text": "Patience sharpens judgment when you stay patient."
+    },
+    {
+      "id": 1236,
+      "text": "Patience sharpens judgment with clarity."
+    },
+    {
+      "id": 1237,
+      "text": "Patience sharpens judgment with intention."
+    },
+    {
+      "id": 1238,
+      "text": "Patience sharpens judgment through discipline."
+    },
+    {
+      "id": 1239,
+      "text": "Patience sharpens judgment when you least expect it."
+    },
+    {
+      "id": 1240,
+      "text": "Patience sharpens judgment when you stay focused."
+    },
+    {
+      "id": 1241,
+      "text": "Patience sharpens judgment with steady effort."
+    },
+    {
+      "id": 1242,
+      "text": "Patience sharpens judgment without rush."
+    },
+    {
+      "id": 1243,
+      "text": "Patience sharpens judgment through learning."
+    },
+    {
+      "id": 1244,
+      "text": "Patience sharpens judgment when you commit."
+    },
+    {
+      "id": 1245,
+      "text": "Patience sharpens judgment with calm confidence."
+    },
+    {
+      "id": 1246,
+      "text": "Patience sharpens judgment step by step."
+    },
+    {
+      "id": 1247,
+      "text": "Patience sharpens judgment with repetition."
+    },
+    {
+      "id": 1248,
+      "text": "Patience sharpens judgment when aligned."
+    },
+    {
+      "id": 1249,
+      "text": "Patience sharpens judgment through consistency."
+    },
+    {
+      "id": 1250,
+      "text": "Patience sharpens judgment with awareness."
+    },
+    {
+      "id": 1251,
+      "text": "Patience sharpens judgment when simplified."
+    },
+    {
+      "id": 1252,
+      "text": "Patience sharpens judgment over the long run."
+    },
+    {
+      "id": 1253,
+      "text": "Patience sharpens judgment with deliberate action."
+    },
+    {
+      "id": 1254,
+      "text": "Patience sharpens judgment through focus."
+    },
+    {
+      "id": 1255,
+      "text": "Patience sharpens judgment with restraint."
+    },
+    {
+      "id": 1256,
+      "text": "Patience sharpens judgment with balance."
+    },
+    {
+      "id": 1257,
+      "text": "Patience sharpens judgment when repeated."
+    },
+    {
+      "id": 1258,
+      "text": "Patience sharpens judgment through effort."
+    },
+    {
+      "id": 1259,
+      "text": "Patience sharpens judgment when practiced."
+    },
+    {
+      "id": 1260,
+      "text": "Patience sharpens judgment with patience."
+    },
+    {
+      "id": 1261,
+      "text": "Patience sharpens judgment with intention daily."
+    },
+    {
+      "id": 1262,
+      "text": "Patience sharpens judgment over weeks."
+    },
+    {
+      "id": 1263,
+      "text": "Patience sharpens judgment over months."
+    },
+    {
+      "id": 1264,
+      "text": "Patience sharpens judgment over years."
+    },
+    {
+      "id": 1265,
+      "text": "Patience sharpens judgment with discipline daily."
+    },
+    {
+      "id": 1266,
+      "text": "Patience sharpens judgment when prioritized."
+    },
+    {
+      "id": 1267,
+      "text": "Patience sharpens judgment when refined."
+    },
+    {
+      "id": 1268,
+      "text": "Patience sharpens judgment when maintained."
+    },
+    {
+      "id": 1269,
+      "text": "Patience sharpens judgment with commitment."
+    },
+    {
+      "id": 1270,
+      "text": "Patience sharpens judgment with thoughtful action."
+    },
+    {
+      "id": 1271,
+      "text": "Patience sharpens judgment with clarity of purpose."
+    },
+    {
+      "id": 1272,
+      "text": "Patience sharpens judgment without distraction."
+    },
+    {
+      "id": 1273,
+      "text": "Patience sharpens judgment with steady discipline."
+    },
+    {
+      "id": 1274,
+      "text": "Patience sharpens judgment with self-trust."
+    },
+    {
+      "id": 1275,
+      "text": "Consistency builds trust today."
+    },
+    {
+      "id": 1276,
+      "text": "Consistency builds trust over time."
+    },
+    {
+      "id": 1277,
+      "text": "Consistency builds trust when it matters."
+    },
+    {
+      "id": 1278,
+      "text": "Consistency builds trust in unexpected ways."
+    },
+    {
+      "id": 1279,
+      "text": "Consistency builds trust more than you expect."
+    },
+    {
+      "id": 1280,
+      "text": "Consistency builds trust sooner than planned."
+    },
+    {
+      "id": 1281,
+      "text": "Consistency builds trust with practice."
+    },
+    {
+      "id": 1282,
+      "text": "Consistency builds trust without shortcuts."
+    },
+    {
+      "id": 1283,
+      "text": "Consistency builds trust when you stay consistent."
+    },
+    {
+      "id": 1284,
+      "text": "Consistency builds trust when you stay patient."
+    },
+    {
+      "id": 1285,
+      "text": "Consistency builds trust with clarity."
+    },
+    {
+      "id": 1286,
+      "text": "Consistency builds trust with intention."
+    },
+    {
+      "id": 1287,
+      "text": "Consistency builds trust through discipline."
+    },
+    {
+      "id": 1288,
+      "text": "Consistency builds trust when you least expect it."
+    },
+    {
+      "id": 1289,
+      "text": "Consistency builds trust when you stay focused."
+    },
+    {
+      "id": 1290,
+      "text": "Consistency builds trust with steady effort."
+    },
+    {
+      "id": 1291,
+      "text": "Consistency builds trust without rush."
+    },
+    {
+      "id": 1292,
+      "text": "Consistency builds trust through learning."
+    },
+    {
+      "id": 1293,
+      "text": "Consistency builds trust when you commit."
+    },
+    {
+      "id": 1294,
+      "text": "Consistency builds trust with calm confidence."
+    },
+    {
+      "id": 1295,
+      "text": "Consistency builds trust step by step."
+    },
+    {
+      "id": 1296,
+      "text": "Consistency builds trust with repetition."
+    },
+    {
+      "id": 1297,
+      "text": "Consistency builds trust when aligned."
+    },
+    {
+      "id": 1298,
+      "text": "Consistency builds trust through consistency."
+    },
+    {
+      "id": 1299,
+      "text": "Consistency builds trust with awareness."
+    },
+    {
+      "id": 1300,
+      "text": "Consistency builds trust when simplified."
+    },
+    {
+      "id": 1301,
+      "text": "Consistency builds trust over the long run."
+    },
+    {
+      "id": 1302,
+      "text": "Consistency builds trust with deliberate action."
+    },
+    {
+      "id": 1303,
+      "text": "Consistency builds trust through focus."
+    },
+    {
+      "id": 1304,
+      "text": "Consistency builds trust with restraint."
+    },
+    {
+      "id": 1305,
+      "text": "Consistency builds trust with balance."
+    },
+    {
+      "id": 1306,
+      "text": "Consistency builds trust when repeated."
+    },
+    {
+      "id": 1307,
+      "text": "Consistency builds trust through effort."
+    },
+    {
+      "id": 1308,
+      "text": "Consistency builds trust when practiced."
+    },
+    {
+      "id": 1309,
+      "text": "Consistency builds trust with patience."
+    },
+    {
+      "id": 1310,
+      "text": "Consistency builds trust with intention daily."
+    },
+    {
+      "id": 1311,
+      "text": "Consistency builds trust over weeks."
+    },
+    {
+      "id": 1312,
+      "text": "Consistency builds trust over months."
+    },
+    {
+      "id": 1313,
+      "text": "Consistency builds trust over years."
+    },
+    {
+      "id": 1314,
+      "text": "Consistency builds trust with discipline daily."
+    },
+    {
+      "id": 1315,
+      "text": "Consistency builds trust when prioritized."
+    },
+    {
+      "id": 1316,
+      "text": "Consistency builds trust when refined."
+    },
+    {
+      "id": 1317,
+      "text": "Consistency builds trust when maintained."
+    },
+    {
+      "id": 1318,
+      "text": "Consistency builds trust with commitment."
+    },
+    {
+      "id": 1319,
+      "text": "Consistency builds trust with thoughtful action."
+    },
+    {
+      "id": 1320,
+      "text": "Consistency builds trust with clarity of purpose."
+    },
+    {
+      "id": 1321,
+      "text": "Consistency builds trust without distraction."
+    },
+    {
+      "id": 1322,
+      "text": "Consistency builds trust with steady discipline."
+    },
+    {
+      "id": 1323,
+      "text": "Consistency builds trust with self-trust."
+    },
+    {
+      "id": 1324,
+      "text": "Focus beats distraction today."
+    },
+    {
+      "id": 1325,
+      "text": "Focus beats distraction over time."
+    },
+    {
+      "id": 1326,
+      "text": "Focus beats distraction when it matters."
+    },
+    {
+      "id": 1327,
+      "text": "Focus beats distraction in unexpected ways."
+    },
+    {
+      "id": 1328,
+      "text": "Focus beats distraction more than you expect."
+    },
+    {
+      "id": 1329,
+      "text": "Focus beats distraction sooner than planned."
+    },
+    {
+      "id": 1330,
+      "text": "Focus beats distraction with practice."
+    },
+    {
+      "id": 1331,
+      "text": "Focus beats distraction without shortcuts."
+    },
+    {
+      "id": 1332,
+      "text": "Focus beats distraction when you stay consistent."
+    },
+    {
+      "id": 1333,
+      "text": "Focus beats distraction when you stay patient."
+    },
+    {
+      "id": 1334,
+      "text": "Focus beats distraction with clarity."
+    },
+    {
+      "id": 1335,
+      "text": "Focus beats distraction with intention."
+    },
+    {
+      "id": 1336,
+      "text": "Focus beats distraction through discipline."
+    },
+    {
+      "id": 1337,
+      "text": "Focus beats distraction when you least expect it."
+    },
+    {
+      "id": 1338,
+      "text": "Focus beats distraction when you stay focused."
+    },
+    {
+      "id": 1339,
+      "text": "Focus beats distraction with steady effort."
+    },
+    {
+      "id": 1340,
+      "text": "Focus beats distraction without rush."
+    },
+    {
+      "id": 1341,
+      "text": "Focus beats distraction through learning."
+    },
+    {
+      "id": 1342,
+      "text": "Focus beats distraction when you commit."
+    },
+    {
+      "id": 1343,
+      "text": "Focus beats distraction with calm confidence."
+    },
+    {
+      "id": 1344,
+      "text": "Focus beats distraction step by step."
+    },
+    {
+      "id": 1345,
+      "text": "Focus beats distraction with repetition."
+    },
+    {
+      "id": 1346,
+      "text": "Focus beats distraction when aligned."
+    },
+    {
+      "id": 1347,
+      "text": "Focus beats distraction through consistency."
+    },
+    {
+      "id": 1348,
+      "text": "Focus beats distraction with awareness."
+    },
+    {
+      "id": 1349,
+      "text": "Focus beats distraction when simplified."
+    },
+    {
+      "id": 1350,
+      "text": "Focus beats distraction over the long run."
+    },
+    {
+      "id": 1351,
+      "text": "Focus beats distraction with deliberate action."
+    },
+    {
+      "id": 1352,
+      "text": "Focus beats distraction through focus."
+    },
+    {
+      "id": 1353,
+      "text": "Focus beats distraction with restraint."
+    },
+    {
+      "id": 1354,
+      "text": "Focus beats distraction with balance."
+    },
+    {
+      "id": 1355,
+      "text": "Focus beats distraction when repeated."
+    },
+    {
+      "id": 1356,
+      "text": "Focus beats distraction through effort."
+    },
+    {
+      "id": 1357,
+      "text": "Focus beats distraction when practiced."
+    },
+    {
+      "id": 1358,
+      "text": "Focus beats distraction with patience."
+    },
+    {
+      "id": 1359,
+      "text": "Focus beats distraction with intention daily."
+    },
+    {
+      "id": 1360,
+      "text": "Focus beats distraction over weeks."
+    },
+    {
+      "id": 1361,
+      "text": "Focus beats distraction over months."
+    },
+    {
+      "id": 1362,
+      "text": "Focus beats distraction over years."
+    },
+    {
+      "id": 1363,
+      "text": "Focus beats distraction with discipline daily."
+    },
+    {
+      "id": 1364,
+      "text": "Focus beats distraction when prioritized."
+    },
+    {
+      "id": 1365,
+      "text": "Focus beats distraction when refined."
+    },
+    {
+      "id": 1366,
+      "text": "Focus beats distraction when maintained."
+    },
+    {
+      "id": 1367,
+      "text": "Focus beats distraction with commitment."
+    },
+    {
+      "id": 1368,
+      "text": "Focus beats distraction with thoughtful action."
+    },
+    {
+      "id": 1369,
+      "text": "Focus beats distraction with clarity of purpose."
+    },
+    {
+      "id": 1370,
+      "text": "Focus beats distraction without distraction."
+    },
+    {
+      "id": 1371,
+      "text": "Focus beats distraction with steady discipline."
+    },
+    {
+      "id": 1372,
+      "text": "Focus beats distraction with self-trust."
+    },
+    {
+      "id": 1373,
+      "text": "Calm effort wins today."
+    },
+    {
+      "id": 1374,
+      "text": "Calm effort wins over time."
+    },
+    {
+      "id": 1375,
+      "text": "Calm effort wins when it matters."
+    },
+    {
+      "id": 1376,
+      "text": "Calm effort wins in unexpected ways."
+    },
+    {
+      "id": 1377,
+      "text": "Calm effort wins more than you expect."
+    },
+    {
+      "id": 1378,
+      "text": "Calm effort wins sooner than planned."
+    },
+    {
+      "id": 1379,
+      "text": "Calm effort wins with practice."
+    },
+    {
+      "id": 1380,
+      "text": "Calm effort wins without shortcuts."
+    },
+    {
+      "id": 1381,
+      "text": "Calm effort wins when you stay consistent."
+    },
+    {
+      "id": 1382,
+      "text": "Calm effort wins when you stay patient."
+    },
+    {
+      "id": 1383,
+      "text": "Calm effort wins with clarity."
+    },
+    {
+      "id": 1384,
+      "text": "Calm effort wins with intention."
+    },
+    {
+      "id": 1385,
+      "text": "Calm effort wins through discipline."
+    },
+    {
+      "id": 1386,
+      "text": "Calm effort wins when you least expect it."
+    },
+    {
+      "id": 1387,
+      "text": "Calm effort wins when you stay focused."
+    },
+    {
+      "id": 1388,
+      "text": "Calm effort wins with steady effort."
+    },
+    {
+      "id": 1389,
+      "text": "Calm effort wins without rush."
+    },
+    {
+      "id": 1390,
+      "text": "Calm effort wins through learning."
+    },
+    {
+      "id": 1391,
+      "text": "Calm effort wins when you commit."
+    },
+    {
+      "id": 1392,
+      "text": "Calm effort wins with calm confidence."
+    },
+    {
+      "id": 1393,
+      "text": "Calm effort wins step by step."
+    },
+    {
+      "id": 1394,
+      "text": "Calm effort wins with repetition."
+    },
+    {
+      "id": 1395,
+      "text": "Calm effort wins when aligned."
+    },
+    {
+      "id": 1396,
+      "text": "Calm effort wins through consistency."
+    },
+    {
+      "id": 1397,
+      "text": "Calm effort wins with awareness."
+    },
+    {
+      "id": 1398,
+      "text": "Calm effort wins when simplified."
+    },
+    {
+      "id": 1399,
+      "text": "Calm effort wins over the long run."
+    },
+    {
+      "id": 1400,
+      "text": "Calm effort wins with deliberate action."
+    },
+    {
+      "id": 1401,
+      "text": "Calm effort wins through focus."
+    },
+    {
+      "id": 1402,
+      "text": "Calm effort wins with restraint."
+    },
+    {
+      "id": 1403,
+      "text": "Calm effort wins with balance."
+    },
+    {
+      "id": 1404,
+      "text": "Calm effort wins when repeated."
+    },
+    {
+      "id": 1405,
+      "text": "Calm effort wins through effort."
+    },
+    {
+      "id": 1406,
+      "text": "Calm effort wins when practiced."
+    },
+    {
+      "id": 1407,
+      "text": "Calm effort wins with patience."
+    },
+    {
+      "id": 1408,
+      "text": "Calm effort wins with intention daily."
+    },
+    {
+      "id": 1409,
+      "text": "Calm effort wins over weeks."
+    },
+    {
+      "id": 1410,
+      "text": "Calm effort wins over months."
+    },
+    {
+      "id": 1411,
+      "text": "Calm effort wins over years."
+    },
+    {
+      "id": 1412,
+      "text": "Calm effort wins with discipline daily."
+    },
+    {
+      "id": 1413,
+      "text": "Calm effort wins when prioritized."
+    },
+    {
+      "id": 1414,
+      "text": "Calm effort wins when refined."
+    },
+    {
+      "id": 1415,
+      "text": "Calm effort wins when maintained."
+    },
+    {
+      "id": 1416,
+      "text": "Calm effort wins with commitment."
+    },
+    {
+      "id": 1417,
+      "text": "Calm effort wins with thoughtful action."
+    },
+    {
+      "id": 1418,
+      "text": "Calm effort wins with clarity of purpose."
+    },
+    {
+      "id": 1419,
+      "text": "Calm effort wins without distraction."
+    },
+    {
+      "id": 1420,
+      "text": "Calm effort wins with steady discipline."
+    },
+    {
+      "id": 1421,
+      "text": "Calm effort wins with self-trust."
+    },
+    {
+      "id": 1422,
+      "text": "Growth rewards persistence today."
+    },
+    {
+      "id": 1423,
+      "text": "Growth rewards persistence over time."
+    },
+    {
+      "id": 1424,
+      "text": "Growth rewards persistence when it matters."
+    },
+    {
+      "id": 1425,
+      "text": "Growth rewards persistence in unexpected ways."
+    },
+    {
+      "id": 1426,
+      "text": "Growth rewards persistence more than you expect."
+    },
+    {
+      "id": 1427,
+      "text": "Growth rewards persistence sooner than planned."
+    },
+    {
+      "id": 1428,
+      "text": "Growth rewards persistence with practice."
+    },
+    {
+      "id": 1429,
+      "text": "Growth rewards persistence without shortcuts."
+    },
+    {
+      "id": 1430,
+      "text": "Growth rewards persistence when you stay consistent."
+    },
+    {
+      "id": 1431,
+      "text": "Growth rewards persistence when you stay patient."
+    },
+    {
+      "id": 1432,
+      "text": "Growth rewards persistence with clarity."
+    },
+    {
+      "id": 1433,
+      "text": "Growth rewards persistence with intention."
+    },
+    {
+      "id": 1434,
+      "text": "Growth rewards persistence through discipline."
+    },
+    {
+      "id": 1435,
+      "text": "Growth rewards persistence when you least expect it."
+    },
+    {
+      "id": 1436,
+      "text": "Growth rewards persistence when you stay focused."
+    },
+    {
+      "id": 1437,
+      "text": "Growth rewards persistence with steady effort."
+    },
+    {
+      "id": 1438,
+      "text": "Growth rewards persistence without rush."
+    },
+    {
+      "id": 1439,
+      "text": "Growth rewards persistence through learning."
+    },
+    {
+      "id": 1440,
+      "text": "Growth rewards persistence when you commit."
+    },
+    {
+      "id": 1441,
+      "text": "Growth rewards persistence with calm confidence."
+    },
+    {
+      "id": 1442,
+      "text": "Growth rewards persistence step by step."
+    },
+    {
+      "id": 1443,
+      "text": "Growth rewards persistence with repetition."
+    },
+    {
+      "id": 1444,
+      "text": "Growth rewards persistence when aligned."
+    },
+    {
+      "id": 1445,
+      "text": "Growth rewards persistence through consistency."
+    },
+    {
+      "id": 1446,
+      "text": "Growth rewards persistence with awareness."
+    },
+    {
+      "id": 1447,
+      "text": "Growth rewards persistence when simplified."
+    },
+    {
+      "id": 1448,
+      "text": "Growth rewards persistence over the long run."
+    },
+    {
+      "id": 1449,
+      "text": "Growth rewards persistence with deliberate action."
+    },
+    {
+      "id": 1450,
+      "text": "Growth rewards persistence through focus."
+    },
+    {
+      "id": 1451,
+      "text": "Growth rewards persistence with restraint."
+    },
+    {
+      "id": 1452,
+      "text": "Growth rewards persistence with balance."
+    },
+    {
+      "id": 1453,
+      "text": "Growth rewards persistence when repeated."
+    },
+    {
+      "id": 1454,
+      "text": "Growth rewards persistence through effort."
+    },
+    {
+      "id": 1455,
+      "text": "Growth rewards persistence when practiced."
+    },
+    {
+      "id": 1456,
+      "text": "Growth rewards persistence with patience."
+    },
+    {
+      "id": 1457,
+      "text": "Growth rewards persistence with intention daily."
+    },
+    {
+      "id": 1458,
+      "text": "Growth rewards persistence over weeks."
+    },
+    {
+      "id": 1459,
+      "text": "Growth rewards persistence over months."
+    },
+    {
+      "id": 1460,
+      "text": "Growth rewards persistence over years."
+    },
+    {
+      "id": 1461,
+      "text": "Growth rewards persistence with discipline daily."
+    },
+    {
+      "id": 1462,
+      "text": "Growth rewards persistence when prioritized."
+    },
+    {
+      "id": 1463,
+      "text": "Growth rewards persistence when refined."
+    },
+    {
+      "id": 1464,
+      "text": "Growth rewards persistence when maintained."
+    },
+    {
+      "id": 1465,
+      "text": "Growth rewards persistence with commitment."
+    },
+    {
+      "id": 1466,
+      "text": "Growth rewards persistence with thoughtful action."
+    },
+    {
+      "id": 1467,
+      "text": "Growth rewards persistence with clarity of purpose."
+    },
+    {
+      "id": 1468,
+      "text": "Growth rewards persistence without distraction."
+    },
+    {
+      "id": 1469,
+      "text": "Growth rewards persistence with steady discipline."
+    },
+    {
+      "id": 1470,
+      "text": "Growth rewards persistence with self-trust."
+    },
+    {
+      "id": 1471,
+      "text": "Progress favors awareness today."
+    },
+    {
+      "id": 1472,
+      "text": "Progress favors awareness over time."
+    },
+    {
+      "id": 1473,
+      "text": "Progress favors awareness when it matters."
+    },
+    {
+      "id": 1474,
+      "text": "Progress favors awareness in unexpected ways."
+    },
+    {
+      "id": 1475,
+      "text": "Progress favors awareness more than you expect."
+    },
+    {
+      "id": 1476,
+      "text": "Progress favors awareness sooner than planned."
+    },
+    {
+      "id": 1477,
+      "text": "Progress favors awareness with practice."
+    },
+    {
+      "id": 1478,
+      "text": "Progress favors awareness without shortcuts."
+    },
+    {
+      "id": 1479,
+      "text": "Progress favors awareness when you stay consistent."
+    },
+    {
+      "id": 1480,
+      "text": "Progress favors awareness when you stay patient."
+    },
+    {
+      "id": 1481,
+      "text": "Progress favors awareness with clarity."
+    },
+    {
+      "id": 1482,
+      "text": "Progress favors awareness with intention."
+    },
+    {
+      "id": 1483,
+      "text": "Progress favors awareness through discipline."
+    },
+    {
+      "id": 1484,
+      "text": "Progress favors awareness when you least expect it."
+    },
+    {
+      "id": 1485,
+      "text": "Progress favors awareness when you stay focused."
+    },
+    {
+      "id": 1486,
+      "text": "Progress favors awareness with steady effort."
+    },
+    {
+      "id": 1487,
+      "text": "Progress favors awareness without rush."
+    },
+    {
+      "id": 1488,
+      "text": "Progress favors awareness through learning."
+    },
+    {
+      "id": 1489,
+      "text": "Progress favors awareness when you commit."
+    },
+    {
+      "id": 1490,
+      "text": "Progress favors awareness with calm confidence."
+    },
+    {
+      "id": 1491,
+      "text": "Progress favors awareness step by step."
+    },
+    {
+      "id": 1492,
+      "text": "Progress favors awareness with repetition."
+    },
+    {
+      "id": 1493,
+      "text": "Progress favors awareness when aligned."
+    },
+    {
+      "id": 1494,
+      "text": "Progress favors awareness through consistency."
+    },
+    {
+      "id": 1495,
+      "text": "Progress favors awareness with awareness."
+    },
+    {
+      "id": 1496,
+      "text": "Progress favors awareness when simplified."
+    },
+    {
+      "id": 1497,
+      "text": "Progress favors awareness over the long run."
+    },
+    {
+      "id": 1498,
+      "text": "Progress favors awareness with deliberate action."
+    },
+    {
+      "id": 1499,
+      "text": "Progress favors awareness through focus."
+    },
+    {
+      "id": 1500,
+      "text": "Progress favors awareness with restraint."
+    },
+    {
+      "id": 1501,
+      "text": "Progress favors awareness with balance."
+    },
+    {
+      "id": 1502,
+      "text": "Progress favors awareness when repeated."
+    },
+    {
+      "id": 1503,
+      "text": "Progress favors awareness through effort."
+    },
+    {
+      "id": 1504,
+      "text": "Progress favors awareness when practiced."
+    },
+    {
+      "id": 1505,
+      "text": "Progress favors awareness with patience."
+    },
+    {
+      "id": 1506,
+      "text": "Progress favors awareness with intention daily."
+    },
+    {
+      "id": 1507,
+      "text": "Progress favors awareness over weeks."
+    },
+    {
+      "id": 1508,
+      "text": "Progress favors awareness over months."
+    },
+    {
+      "id": 1509,
+      "text": "Progress favors awareness over years."
+    },
+    {
+      "id": 1510,
+      "text": "Progress favors awareness with discipline daily."
+    },
+    {
+      "id": 1511,
+      "text": "Progress favors awareness when prioritized."
+    },
+    {
+      "id": 1512,
+      "text": "Progress favors awareness when refined."
+    },
+    {
+      "id": 1513,
+      "text": "Progress favors awareness when maintained."
+    },
+    {
+      "id": 1514,
+      "text": "Progress favors awareness with commitment."
+    },
+    {
+      "id": 1515,
+      "text": "Progress favors awareness with thoughtful action."
+    },
+    {
+      "id": 1516,
+      "text": "Progress favors awareness with clarity of purpose."
+    },
+    {
+      "id": 1517,
+      "text": "Progress favors awareness without distraction."
+    },
+    {
+      "id": 1518,
+      "text": "Progress favors awareness with steady discipline."
+    },
+    {
+      "id": 1519,
+      "text": "Progress favors awareness with self-trust."
+    },
+    {
+      "id": 1520,
+      "text": "Learning compounds daily today."
+    },
+    {
+      "id": 1521,
+      "text": "Learning compounds daily over time."
+    },
+    {
+      "id": 1522,
+      "text": "Learning compounds daily when it matters."
+    },
+    {
+      "id": 1523,
+      "text": "Learning compounds daily in unexpected ways."
+    },
+    {
+      "id": 1524,
+      "text": "Learning compounds daily more than you expect."
+    },
+    {
+      "id": 1525,
+      "text": "Learning compounds daily sooner than planned."
+    },
+    {
+      "id": 1526,
+      "text": "Learning compounds daily with practice."
+    },
+    {
+      "id": 1527,
+      "text": "Learning compounds daily without shortcuts."
+    },
+    {
+      "id": 1528,
+      "text": "Learning compounds daily when you stay consistent."
+    },
+    {
+      "id": 1529,
+      "text": "Learning compounds daily when you stay patient."
+    },
+    {
+      "id": 1530,
+      "text": "Learning compounds daily with clarity."
+    },
+    {
+      "id": 1531,
+      "text": "Learning compounds daily with intention."
+    },
+    {
+      "id": 1532,
+      "text": "Learning compounds daily through discipline."
+    },
+    {
+      "id": 1533,
+      "text": "Learning compounds daily when you least expect it."
+    },
+    {
+      "id": 1534,
+      "text": "Learning compounds daily when you stay focused."
+    },
+    {
+      "id": 1535,
+      "text": "Learning compounds daily with steady effort."
+    },
+    {
+      "id": 1536,
+      "text": "Learning compounds daily without rush."
+    },
+    {
+      "id": 1537,
+      "text": "Learning compounds daily through learning."
+    },
+    {
+      "id": 1538,
+      "text": "Learning compounds daily when you commit."
+    },
+    {
+      "id": 1539,
+      "text": "Learning compounds daily with calm confidence."
+    },
+    {
+      "id": 1540,
+      "text": "Learning compounds daily step by step."
+    },
+    {
+      "id": 1541,
+      "text": "Learning compounds daily with repetition."
+    },
+    {
+      "id": 1542,
+      "text": "Learning compounds daily when aligned."
+    },
+    {
+      "id": 1543,
+      "text": "Learning compounds daily through consistency."
+    },
+    {
+      "id": 1544,
+      "text": "Learning compounds daily with awareness."
+    },
+    {
+      "id": 1545,
+      "text": "Learning compounds daily when simplified."
+    },
+    {
+      "id": 1546,
+      "text": "Learning compounds daily over the long run."
+    },
+    {
+      "id": 1547,
+      "text": "Learning compounds daily with deliberate action."
+    },
+    {
+      "id": 1548,
+      "text": "Learning compounds daily through focus."
+    },
+    {
+      "id": 1549,
+      "text": "Learning compounds daily with restraint."
+    },
+    {
+      "id": 1550,
+      "text": "Learning compounds daily with balance."
+    },
+    {
+      "id": 1551,
+      "text": "Learning compounds daily when repeated."
+    },
+    {
+      "id": 1552,
+      "text": "Learning compounds daily through effort."
+    },
+    {
+      "id": 1553,
+      "text": "Learning compounds daily when practiced."
+    },
+    {
+      "id": 1554,
+      "text": "Learning compounds daily with patience."
+    },
+    {
+      "id": 1555,
+      "text": "Learning compounds daily with intention daily."
+    },
+    {
+      "id": 1556,
+      "text": "Learning compounds daily over weeks."
+    },
+    {
+      "id": 1557,
+      "text": "Learning compounds daily over months."
+    },
+    {
+      "id": 1558,
+      "text": "Learning compounds daily over years."
+    },
+    {
+      "id": 1559,
+      "text": "Learning compounds daily with discipline daily."
+    },
+    {
+      "id": 1560,
+      "text": "Learning compounds daily when prioritized."
+    },
+    {
+      "id": 1561,
+      "text": "Learning compounds daily when refined."
+    },
+    {
+      "id": 1562,
+      "text": "Learning compounds daily when maintained."
+    },
+    {
+      "id": 1563,
+      "text": "Learning compounds daily with commitment."
+    },
+    {
+      "id": 1564,
+      "text": "Learning compounds daily with thoughtful action."
+    },
+    {
+      "id": 1565,
+      "text": "Learning compounds daily with clarity of purpose."
+    },
+    {
+      "id": 1566,
+      "text": "Learning compounds daily without distraction."
+    },
+    {
+      "id": 1567,
+      "text": "Learning compounds daily with steady discipline."
+    },
+    {
+      "id": 1568,
+      "text": "Learning compounds daily with self-trust."
+    },
+    {
+      "id": 1569,
+      "text": "Direction matters more than speed today."
+    },
+    {
+      "id": 1570,
+      "text": "Direction matters more than speed over time."
+    },
+    {
+      "id": 1571,
+      "text": "Direction matters more than speed when it matters."
+    },
+    {
+      "id": 1572,
+      "text": "Direction matters more than speed in unexpected ways."
+    },
+    {
+      "id": 1573,
+      "text": "Direction matters more than speed more than you expect."
+    },
+    {
+      "id": 1574,
+      "text": "Direction matters more than speed sooner than planned."
+    },
+    {
+      "id": 1575,
+      "text": "Direction matters more than speed with practice."
+    },
+    {
+      "id": 1576,
+      "text": "Direction matters more than speed without shortcuts."
+    },
+    {
+      "id": 1577,
+      "text": "Direction matters more than speed when you stay consistent."
+    },
+    {
+      "id": 1578,
+      "text": "Direction matters more than speed when you stay patient."
+    },
+    {
+      "id": 1579,
+      "text": "Direction matters more than speed with clarity."
+    },
+    {
+      "id": 1580,
+      "text": "Direction matters more than speed with intention."
+    },
+    {
+      "id": 1581,
+      "text": "Direction matters more than speed through discipline."
+    },
+    {
+      "id": 1582,
+      "text": "Direction matters more than speed when you least expect it."
+    },
+    {
+      "id": 1583,
+      "text": "Direction matters more than speed when you stay focused."
+    },
+    {
+      "id": 1584,
+      "text": "Direction matters more than speed with steady effort."
+    },
+    {
+      "id": 1585,
+      "text": "Direction matters more than speed without rush."
+    },
+    {
+      "id": 1586,
+      "text": "Direction matters more than speed through learning."
+    },
+    {
+      "id": 1587,
+      "text": "Direction matters more than speed when you commit."
+    },
+    {
+      "id": 1588,
+      "text": "Direction matters more than speed with calm confidence."
+    },
+    {
+      "id": 1589,
+      "text": "Direction matters more than speed step by step."
+    },
+    {
+      "id": 1590,
+      "text": "Direction matters more than speed with repetition."
+    },
+    {
+      "id": 1591,
+      "text": "Direction matters more than speed when aligned."
+    },
+    {
+      "id": 1592,
+      "text": "Direction matters more than speed through consistency."
+    },
+    {
+      "id": 1593,
+      "text": "Direction matters more than speed with awareness."
+    },
+    {
+      "id": 1594,
+      "text": "Direction matters more than speed when simplified."
+    },
+    {
+      "id": 1595,
+      "text": "Direction matters more than speed over the long run."
+    },
+    {
+      "id": 1596,
+      "text": "Direction matters more than speed with deliberate action."
+    },
+    {
+      "id": 1597,
+      "text": "Direction matters more than speed through focus."
+    },
+    {
+      "id": 1598,
+      "text": "Direction matters more than speed with restraint."
+    },
+    {
+      "id": 1599,
+      "text": "Direction matters more than speed with balance."
+    },
+    {
+      "id": 1600,
+      "text": "Direction matters more than speed when repeated."
+    },
+    {
+      "id": 1601,
+      "text": "Direction matters more than speed through effort."
+    },
+    {
+      "id": 1602,
+      "text": "Direction matters more than speed when practiced."
+    },
+    {
+      "id": 1603,
+      "text": "Direction matters more than speed with patience."
+    },
+    {
+      "id": 1604,
+      "text": "Direction matters more than speed with intention daily."
+    },
+    {
+      "id": 1605,
+      "text": "Direction matters more than speed over weeks."
+    },
+    {
+      "id": 1606,
+      "text": "Direction matters more than speed over months."
+    },
+    {
+      "id": 1607,
+      "text": "Direction matters more than speed over years."
+    },
+    {
+      "id": 1608,
+      "text": "Direction matters more than speed with discipline daily."
+    },
+    {
+      "id": 1609,
+      "text": "Direction matters more than speed when prioritized."
+    },
+    {
+      "id": 1610,
+      "text": "Direction matters more than speed when refined."
+    },
+    {
+      "id": 1611,
+      "text": "Direction matters more than speed when maintained."
+    },
+    {
+      "id": 1612,
+      "text": "Direction matters more than speed with commitment."
+    },
+    {
+      "id": 1613,
+      "text": "Direction matters more than speed with thoughtful action."
+    },
+    {
+      "id": 1614,
+      "text": "Direction matters more than speed with clarity of purpose."
+    },
+    {
+      "id": 1615,
+      "text": "Direction matters more than speed without distraction."
+    },
+    {
+      "id": 1616,
+      "text": "Direction matters more than speed with steady discipline."
+    },
+    {
+      "id": 1617,
+      "text": "Direction matters more than speed with self-trust."
+    },
+    {
+      "id": 1618,
+      "text": "Small improvements add up today."
+    },
+    {
+      "id": 1619,
+      "text": "Small improvements add up over time."
+    },
+    {
+      "id": 1620,
+      "text": "Small improvements add up when it matters."
+    },
+    {
+      "id": 1621,
+      "text": "Small improvements add up in unexpected ways."
+    },
+    {
+      "id": 1622,
+      "text": "Small improvements add up more than you expect."
+    },
+    {
+      "id": 1623,
+      "text": "Small improvements add up sooner than planned."
+    },
+    {
+      "id": 1624,
+      "text": "Small improvements add up with practice."
+    },
+    {
+      "id": 1625,
+      "text": "Small improvements add up without shortcuts."
+    },
+    {
+      "id": 1626,
+      "text": "Small improvements add up when you stay consistent."
+    },
+    {
+      "id": 1627,
+      "text": "Small improvements add up when you stay patient."
+    },
+    {
+      "id": 1628,
+      "text": "Small improvements add up with clarity."
+    },
+    {
+      "id": 1629,
+      "text": "Small improvements add up with intention."
+    },
+    {
+      "id": 1630,
+      "text": "Small improvements add up through discipline."
+    },
+    {
+      "id": 1631,
+      "text": "Small improvements add up when you least expect it."
+    },
+    {
+      "id": 1632,
+      "text": "Small improvements add up when you stay focused."
+    },
+    {
+      "id": 1633,
+      "text": "Small improvements add up with steady effort."
+    },
+    {
+      "id": 1634,
+      "text": "Small improvements add up without rush."
+    },
+    {
+      "id": 1635,
+      "text": "Small improvements add up through learning."
+    },
+    {
+      "id": 1636,
+      "text": "Small improvements add up when you commit."
+    },
+    {
+      "id": 1637,
+      "text": "Small improvements add up with calm confidence."
+    },
+    {
+      "id": 1638,
+      "text": "Small improvements add up step by step."
+    },
+    {
+      "id": 1639,
+      "text": "Small improvements add up with repetition."
+    },
+    {
+      "id": 1640,
+      "text": "Small improvements add up when aligned."
+    },
+    {
+      "id": 1641,
+      "text": "Small improvements add up through consistency."
+    },
+    {
+      "id": 1642,
+      "text": "Small improvements add up with awareness."
+    },
+    {
+      "id": 1643,
+      "text": "Small improvements add up when simplified."
+    },
+    {
+      "id": 1644,
+      "text": "Small improvements add up over the long run."
+    },
+    {
+      "id": 1645,
+      "text": "Small improvements add up with deliberate action."
+    },
+    {
+      "id": 1646,
+      "text": "Small improvements add up through focus."
+    },
+    {
+      "id": 1647,
+      "text": "Small improvements add up with restraint."
+    },
+    {
+      "id": 1648,
+      "text": "Small improvements add up with balance."
+    },
+    {
+      "id": 1649,
+      "text": "Small improvements add up when repeated."
+    },
+    {
+      "id": 1650,
+      "text": "Small improvements add up through effort."
+    },
+    {
+      "id": 1651,
+      "text": "Small improvements add up when practiced."
+    },
+    {
+      "id": 1652,
+      "text": "Small improvements add up with patience."
+    },
+    {
+      "id": 1653,
+      "text": "Small improvements add up with intention daily."
+    },
+    {
+      "id": 1654,
+      "text": "Small improvements add up over weeks."
+    },
+    {
+      "id": 1655,
+      "text": "Small improvements add up over months."
+    },
+    {
+      "id": 1656,
+      "text": "Small improvements add up over years."
+    },
+    {
+      "id": 1657,
+      "text": "Small improvements add up with discipline daily."
+    },
+    {
+      "id": 1658,
+      "text": "Small improvements add up when prioritized."
+    },
+    {
+      "id": 1659,
+      "text": "Small improvements add up when refined."
+    },
+    {
+      "id": 1660,
+      "text": "Small improvements add up when maintained."
+    },
+    {
+      "id": 1661,
+      "text": "Small improvements add up with commitment."
+    },
+    {
+      "id": 1662,
+      "text": "Small improvements add up with thoughtful action."
+    },
+    {
+      "id": 1663,
+      "text": "Small improvements add up with clarity of purpose."
+    },
+    {
+      "id": 1664,
+      "text": "Small improvements add up without distraction."
+    },
+    {
+      "id": 1665,
+      "text": "Small improvements add up with steady discipline."
+    },
+    {
+      "id": 1666,
+      "text": "Small improvements add up with self-trust."
+    },
+    {
+      "id": 1667,
+      "text": "Action creates confidence today."
+    },
+    {
+      "id": 1668,
+      "text": "Action creates confidence over time."
+    },
+    {
+      "id": 1669,
+      "text": "Action creates confidence when it matters."
+    },
+    {
+      "id": 1670,
+      "text": "Action creates confidence in unexpected ways."
+    },
+    {
+      "id": 1671,
+      "text": "Action creates confidence more than you expect."
+    },
+    {
+      "id": 1672,
+      "text": "Action creates confidence sooner than planned."
+    },
+    {
+      "id": 1673,
+      "text": "Action creates confidence with practice."
+    },
+    {
+      "id": 1674,
+      "text": "Action creates confidence without shortcuts."
+    },
+    {
+      "id": 1675,
+      "text": "Action creates confidence when you stay consistent."
+    },
+    {
+      "id": 1676,
+      "text": "Action creates confidence when you stay patient."
+    },
+    {
+      "id": 1677,
+      "text": "Action creates confidence with clarity."
+    },
+    {
+      "id": 1678,
+      "text": "Action creates confidence with intention."
+    },
+    {
+      "id": 1679,
+      "text": "Action creates confidence through discipline."
+    },
+    {
+      "id": 1680,
+      "text": "Action creates confidence when you least expect it."
+    },
+    {
+      "id": 1681,
+      "text": "Action creates confidence when you stay focused."
+    },
+    {
+      "id": 1682,
+      "text": "Action creates confidence with steady effort."
+    },
+    {
+      "id": 1683,
+      "text": "Action creates confidence without rush."
+    },
+    {
+      "id": 1684,
+      "text": "Action creates confidence through learning."
+    },
+    {
+      "id": 1685,
+      "text": "Action creates confidence when you commit."
+    },
+    {
+      "id": 1686,
+      "text": "Action creates confidence with calm confidence."
+    },
+    {
+      "id": 1687,
+      "text": "Action creates confidence step by step."
+    },
+    {
+      "id": 1688,
+      "text": "Action creates confidence with repetition."
+    },
+    {
+      "id": 1689,
+      "text": "Action creates confidence when aligned."
+    },
+    {
+      "id": 1690,
+      "text": "Action creates confidence through consistency."
+    },
+    {
+      "id": 1691,
+      "text": "Action creates confidence with awareness."
+    },
+    {
+      "id": 1692,
+      "text": "Action creates confidence when simplified."
+    },
+    {
+      "id": 1693,
+      "text": "Action creates confidence over the long run."
+    },
+    {
+      "id": 1694,
+      "text": "Action creates confidence with deliberate action."
+    },
+    {
+      "id": 1695,
+      "text": "Action creates confidence through focus."
+    },
+    {
+      "id": 1696,
+      "text": "Action creates confidence with restraint."
+    },
+    {
+      "id": 1697,
+      "text": "Action creates confidence with balance."
+    },
+    {
+      "id": 1698,
+      "text": "Action creates confidence when repeated."
+    },
+    {
+      "id": 1699,
+      "text": "Action creates confidence through effort."
+    },
+    {
+      "id": 1700,
+      "text": "Action creates confidence when practiced."
+    },
+    {
+      "id": 1701,
+      "text": "Action creates confidence with patience."
+    },
+    {
+      "id": 1702,
+      "text": "Action creates confidence with intention daily."
+    },
+    {
+      "id": 1703,
+      "text": "Action creates confidence over weeks."
+    },
+    {
+      "id": 1704,
+      "text": "Action creates confidence over months."
+    },
+    {
+      "id": 1705,
+      "text": "Action creates confidence over years."
+    },
+    {
+      "id": 1706,
+      "text": "Action creates confidence with discipline daily."
+    },
+    {
+      "id": 1707,
+      "text": "Action creates confidence when prioritized."
+    },
+    {
+      "id": 1708,
+      "text": "Action creates confidence when refined."
+    },
+    {
+      "id": 1709,
+      "text": "Action creates confidence when maintained."
+    },
+    {
+      "id": 1710,
+      "text": "Action creates confidence with commitment."
+    },
+    {
+      "id": 1711,
+      "text": "Action creates confidence with thoughtful action."
+    },
+    {
+      "id": 1712,
+      "text": "Action creates confidence with clarity of purpose."
+    },
+    {
+      "id": 1713,
+      "text": "Action creates confidence without distraction."
+    },
+    {
+      "id": 1714,
+      "text": "Action creates confidence with steady discipline."
+    },
+    {
+      "id": 1715,
+      "text": "Action creates confidence with self-trust."
+    },
+    {
+      "id": 1716,
+      "text": "Stability grows gradually today."
+    },
+    {
+      "id": 1717,
+      "text": "Stability grows gradually over time."
+    },
+    {
+      "id": 1718,
+      "text": "Stability grows gradually when it matters."
+    },
+    {
+      "id": 1719,
+      "text": "Stability grows gradually in unexpected ways."
+    },
+    {
+      "id": 1720,
+      "text": "Stability grows gradually more than you expect."
+    },
+    {
+      "id": 1721,
+      "text": "Stability grows gradually sooner than planned."
+    },
+    {
+      "id": 1722,
+      "text": "Stability grows gradually with practice."
+    },
+    {
+      "id": 1723,
+      "text": "Stability grows gradually without shortcuts."
+    },
+    {
+      "id": 1724,
+      "text": "Stability grows gradually when you stay consistent."
+    },
+    {
+      "id": 1725,
+      "text": "Stability grows gradually when you stay patient."
+    },
+    {
+      "id": 1726,
+      "text": "Stability grows gradually with clarity."
+    },
+    {
+      "id": 1727,
+      "text": "Stability grows gradually with intention."
+    },
+    {
+      "id": 1728,
+      "text": "Stability grows gradually through discipline."
+    },
+    {
+      "id": 1729,
+      "text": "Stability grows gradually when you least expect it."
+    },
+    {
+      "id": 1730,
+      "text": "Stability grows gradually when you stay focused."
+    },
+    {
+      "id": 1731,
+      "text": "Stability grows gradually with steady effort."
+    },
+    {
+      "id": 1732,
+      "text": "Stability grows gradually without rush."
+    },
+    {
+      "id": 1733,
+      "text": "Stability grows gradually through learning."
+    },
+    {
+      "id": 1734,
+      "text": "Stability grows gradually when you commit."
+    },
+    {
+      "id": 1735,
+      "text": "Stability grows gradually with calm confidence."
+    },
+    {
+      "id": 1736,
+      "text": "Stability grows gradually step by step."
+    },
+    {
+      "id": 1737,
+      "text": "Stability grows gradually with repetition."
+    },
+    {
+      "id": 1738,
+      "text": "Stability grows gradually when aligned."
+    },
+    {
+      "id": 1739,
+      "text": "Stability grows gradually through consistency."
+    },
+    {
+      "id": 1740,
+      "text": "Stability grows gradually with awareness."
+    },
+    {
+      "id": 1741,
+      "text": "Stability grows gradually when simplified."
+    },
+    {
+      "id": 1742,
+      "text": "Stability grows gradually over the long run."
+    },
+    {
+      "id": 1743,
+      "text": "Stability grows gradually with deliberate action."
+    },
+    {
+      "id": 1744,
+      "text": "Stability grows gradually through focus."
+    },
+    {
+      "id": 1745,
+      "text": "Stability grows gradually with restraint."
+    },
+    {
+      "id": 1746,
+      "text": "Stability grows gradually with balance."
+    },
+    {
+      "id": 1747,
+      "text": "Stability grows gradually when repeated."
+    },
+    {
+      "id": 1748,
+      "text": "Stability grows gradually through effort."
+    },
+    {
+      "id": 1749,
+      "text": "Stability grows gradually when practiced."
+    },
+    {
+      "id": 1750,
+      "text": "Stability grows gradually with patience."
+    },
+    {
+      "id": 1751,
+      "text": "Stability grows gradually with intention daily."
+    },
+    {
+      "id": 1752,
+      "text": "Stability grows gradually over weeks."
+    },
+    {
+      "id": 1753,
+      "text": "Stability grows gradually over months."
+    },
+    {
+      "id": 1754,
+      "text": "Stability grows gradually over years."
+    },
+    {
+      "id": 1755,
+      "text": "Stability grows gradually with discipline daily."
+    },
+    {
+      "id": 1756,
+      "text": "Stability grows gradually when prioritized."
+    },
+    {
+      "id": 1757,
+      "text": "Stability grows gradually when refined."
+    },
+    {
+      "id": 1758,
+      "text": "Stability grows gradually when maintained."
+    },
+    {
+      "id": 1759,
+      "text": "Stability grows gradually with commitment."
+    },
+    {
+      "id": 1760,
+      "text": "Stability grows gradually with thoughtful action."
+    },
+    {
+      "id": 1761,
+      "text": "Stability grows gradually with clarity of purpose."
+    },
+    {
+      "id": 1762,
+      "text": "Stability grows gradually without distraction."
+    },
+    {
+      "id": 1763,
+      "text": "Stability grows gradually with steady discipline."
+    },
+    {
+      "id": 1764,
+      "text": "Stability grows gradually with self-trust."
+    },
+    {
+      "id": 1765,
+      "text": "Clarity simplifies action today."
+    },
+    {
+      "id": 1766,
+      "text": "Clarity simplifies action over time."
+    },
+    {
+      "id": 1767,
+      "text": "Clarity simplifies action when it matters."
+    },
+    {
+      "id": 1768,
+      "text": "Clarity simplifies action in unexpected ways."
+    },
+    {
+      "id": 1769,
+      "text": "Clarity simplifies action more than you expect."
+    },
+    {
+      "id": 1770,
+      "text": "Clarity simplifies action sooner than planned."
+    },
+    {
+      "id": 1771,
+      "text": "Clarity simplifies action with practice."
+    },
+    {
+      "id": 1772,
+      "text": "Clarity simplifies action without shortcuts."
+    },
+    {
+      "id": 1773,
+      "text": "Clarity simplifies action when you stay consistent."
+    },
+    {
+      "id": 1774,
+      "text": "Clarity simplifies action when you stay patient."
+    },
+    {
+      "id": 1775,
+      "text": "Clarity simplifies action with clarity."
+    },
+    {
+      "id": 1776,
+      "text": "Clarity simplifies action with intention."
+    },
+    {
+      "id": 1777,
+      "text": "Clarity simplifies action through discipline."
+    },
+    {
+      "id": 1778,
+      "text": "Clarity simplifies action when you least expect it."
+    },
+    {
+      "id": 1779,
+      "text": "Clarity simplifies action when you stay focused."
+    },
+    {
+      "id": 1780,
+      "text": "Clarity simplifies action with steady effort."
+    },
+    {
+      "id": 1781,
+      "text": "Clarity simplifies action without rush."
+    },
+    {
+      "id": 1782,
+      "text": "Clarity simplifies action through learning."
+    },
+    {
+      "id": 1783,
+      "text": "Clarity simplifies action when you commit."
+    },
+    {
+      "id": 1784,
+      "text": "Clarity simplifies action with calm confidence."
+    },
+    {
+      "id": 1785,
+      "text": "Clarity simplifies action step by step."
+    },
+    {
+      "id": 1786,
+      "text": "Clarity simplifies action with repetition."
+    },
+    {
+      "id": 1787,
+      "text": "Clarity simplifies action when aligned."
+    },
+    {
+      "id": 1788,
+      "text": "Clarity simplifies action through consistency."
+    },
+    {
+      "id": 1789,
+      "text": "Clarity simplifies action with awareness."
+    },
+    {
+      "id": 1790,
+      "text": "Clarity simplifies action when simplified."
+    },
+    {
+      "id": 1791,
+      "text": "Clarity simplifies action over the long run."
+    },
+    {
+      "id": 1792,
+      "text": "Clarity simplifies action with deliberate action."
+    },
+    {
+      "id": 1793,
+      "text": "Clarity simplifies action through focus."
+    },
+    {
+      "id": 1794,
+      "text": "Clarity simplifies action with restraint."
+    },
+    {
+      "id": 1795,
+      "text": "Clarity simplifies action with balance."
+    },
+    {
+      "id": 1796,
+      "text": "Clarity simplifies action when repeated."
+    },
+    {
+      "id": 1797,
+      "text": "Clarity simplifies action through effort."
+    },
+    {
+      "id": 1798,
+      "text": "Clarity simplifies action when practiced."
+    },
+    {
+      "id": 1799,
+      "text": "Clarity simplifies action with patience."
+    },
+    {
+      "id": 1800,
+      "text": "Clarity simplifies action with intention daily."
+    },
+    {
+      "id": 1801,
+      "text": "Clarity simplifies action over weeks."
+    },
+    {
+      "id": 1802,
+      "text": "Clarity simplifies action over months."
+    },
+    {
+      "id": 1803,
+      "text": "Clarity simplifies action over years."
+    },
+    {
+      "id": 1804,
+      "text": "Clarity simplifies action with discipline daily."
+    },
+    {
+      "id": 1805,
+      "text": "Clarity simplifies action when prioritized."
+    },
+    {
+      "id": 1806,
+      "text": "Clarity simplifies action when refined."
+    },
+    {
+      "id": 1807,
+      "text": "Clarity simplifies action when maintained."
+    },
+    {
+      "id": 1808,
+      "text": "Clarity simplifies action with commitment."
+    },
+    {
+      "id": 1809,
+      "text": "Clarity simplifies action with thoughtful action."
+    },
+    {
+      "id": 1810,
+      "text": "Clarity simplifies action with clarity of purpose."
+    },
+    {
+      "id": 1811,
+      "text": "Clarity simplifies action without distraction."
+    },
+    {
+      "id": 1812,
+      "text": "Clarity simplifies action with steady discipline."
+    },
+    {
+      "id": 1813,
+      "text": "Clarity simplifies action with self-trust."
+    },
+    {
+      "id": 1814,
+      "text": "Persistence pays eventually today."
+    },
+    {
+      "id": 1815,
+      "text": "Persistence pays eventually over time."
+    },
+    {
+      "id": 1816,
+      "text": "Persistence pays eventually when it matters."
+    },
+    {
+      "id": 1817,
+      "text": "Persistence pays eventually in unexpected ways."
+    },
+    {
+      "id": 1818,
+      "text": "Persistence pays eventually more than you expect."
+    },
+    {
+      "id": 1819,
+      "text": "Persistence pays eventually sooner than planned."
+    },
+    {
+      "id": 1820,
+      "text": "Persistence pays eventually with practice."
+    },
+    {
+      "id": 1821,
+      "text": "Persistence pays eventually without shortcuts."
+    },
+    {
+      "id": 1822,
+      "text": "Persistence pays eventually when you stay consistent."
+    },
+    {
+      "id": 1823,
+      "text": "Persistence pays eventually when you stay patient."
+    },
+    {
+      "id": 1824,
+      "text": "Persistence pays eventually with clarity."
+    },
+    {
+      "id": 1825,
+      "text": "Persistence pays eventually with intention."
+    },
+    {
+      "id": 1826,
+      "text": "Persistence pays eventually through discipline."
+    },
+    {
+      "id": 1827,
+      "text": "Persistence pays eventually when you least expect it."
+    },
+    {
+      "id": 1828,
+      "text": "Persistence pays eventually when you stay focused."
+    },
+    {
+      "id": 1829,
+      "text": "Persistence pays eventually with steady effort."
+    },
+    {
+      "id": 1830,
+      "text": "Persistence pays eventually without rush."
+    },
+    {
+      "id": 1831,
+      "text": "Persistence pays eventually through learning."
+    },
+    {
+      "id": 1832,
+      "text": "Persistence pays eventually when you commit."
+    },
+    {
+      "id": 1833,
+      "text": "Persistence pays eventually with calm confidence."
+    },
+    {
+      "id": 1834,
+      "text": "Persistence pays eventually step by step."
+    },
+    {
+      "id": 1835,
+      "text": "Persistence pays eventually with repetition."
+    },
+    {
+      "id": 1836,
+      "text": "Persistence pays eventually when aligned."
+    },
+    {
+      "id": 1837,
+      "text": "Persistence pays eventually through consistency."
+    },
+    {
+      "id": 1838,
+      "text": "Persistence pays eventually with awareness."
+    },
+    {
+      "id": 1839,
+      "text": "Persistence pays eventually when simplified."
+    },
+    {
+      "id": 1840,
+      "text": "Persistence pays eventually over the long run."
+    },
+    {
+      "id": 1841,
+      "text": "Persistence pays eventually with deliberate action."
+    },
+    {
+      "id": 1842,
+      "text": "Persistence pays eventually through focus."
+    },
+    {
+      "id": 1843,
+      "text": "Persistence pays eventually with restraint."
+    },
+    {
+      "id": 1844,
+      "text": "Persistence pays eventually with balance."
+    },
+    {
+      "id": 1845,
+      "text": "Persistence pays eventually when repeated."
+    },
+    {
+      "id": 1846,
+      "text": "Persistence pays eventually through effort."
+    },
+    {
+      "id": 1847,
+      "text": "Persistence pays eventually when practiced."
+    },
+    {
+      "id": 1848,
+      "text": "Persistence pays eventually with patience."
+    },
+    {
+      "id": 1849,
+      "text": "Persistence pays eventually with intention daily."
+    },
+    {
+      "id": 1850,
+      "text": "Persistence pays eventually over weeks."
+    },
+    {
+      "id": 1851,
+      "text": "Persistence pays eventually over months."
+    },
+    {
+      "id": 1852,
+      "text": "Persistence pays eventually over years."
+    },
+    {
+      "id": 1853,
+      "text": "Persistence pays eventually with discipline daily."
+    },
+    {
+      "id": 1854,
+      "text": "Persistence pays eventually when prioritized."
+    },
+    {
+      "id": 1855,
+      "text": "Persistence pays eventually when refined."
+    },
+    {
+      "id": 1856,
+      "text": "Persistence pays eventually when maintained."
+    },
+    {
+      "id": 1857,
+      "text": "Persistence pays eventually with commitment."
+    },
+    {
+      "id": 1858,
+      "text": "Persistence pays eventually with thoughtful action."
+    },
+    {
+      "id": 1859,
+      "text": "Persistence pays eventually with clarity of purpose."
+    },
+    {
+      "id": 1860,
+      "text": "Persistence pays eventually without distraction."
+    },
+    {
+      "id": 1861,
+      "text": "Persistence pays eventually with steady discipline."
+    },
+    {
+      "id": 1862,
+      "text": "Persistence pays eventually with self-trust."
+    },
+    {
+      "id": 1863,
+      "text": "Focus fuels results today."
+    },
+    {
+      "id": 1864,
+      "text": "Focus fuels results over time."
+    },
+    {
+      "id": 1865,
+      "text": "Focus fuels results when it matters."
+    },
+    {
+      "id": 1866,
+      "text": "Focus fuels results in unexpected ways."
+    },
+    {
+      "id": 1867,
+      "text": "Focus fuels results more than you expect."
+    },
+    {
+      "id": 1868,
+      "text": "Focus fuels results sooner than planned."
+    },
+    {
+      "id": 1869,
+      "text": "Focus fuels results with practice."
+    },
+    {
+      "id": 1870,
+      "text": "Focus fuels results without shortcuts."
+    },
+    {
+      "id": 1871,
+      "text": "Focus fuels results when you stay consistent."
+    },
+    {
+      "id": 1872,
+      "text": "Focus fuels results when you stay patient."
+    },
+    {
+      "id": 1873,
+      "text": "Focus fuels results with clarity."
+    },
+    {
+      "id": 1874,
+      "text": "Focus fuels results with intention."
+    },
+    {
+      "id": 1875,
+      "text": "Focus fuels results through discipline."
+    },
+    {
+      "id": 1876,
+      "text": "Focus fuels results when you least expect it."
+    },
+    {
+      "id": 1877,
+      "text": "Focus fuels results when you stay focused."
+    },
+    {
+      "id": 1878,
+      "text": "Focus fuels results with steady effort."
+    },
+    {
+      "id": 1879,
+      "text": "Focus fuels results without rush."
+    },
+    {
+      "id": 1880,
+      "text": "Focus fuels results through learning."
+    },
+    {
+      "id": 1881,
+      "text": "Focus fuels results when you commit."
+    },
+    {
+      "id": 1882,
+      "text": "Focus fuels results with calm confidence."
+    },
+    {
+      "id": 1883,
+      "text": "Focus fuels results step by step."
+    },
+    {
+      "id": 1884,
+      "text": "Focus fuels results with repetition."
+    },
+    {
+      "id": 1885,
+      "text": "Focus fuels results when aligned."
+    },
+    {
+      "id": 1886,
+      "text": "Focus fuels results through consistency."
+    },
+    {
+      "id": 1887,
+      "text": "Focus fuels results with awareness."
+    },
+    {
+      "id": 1888,
+      "text": "Focus fuels results when simplified."
+    },
+    {
+      "id": 1889,
+      "text": "Focus fuels results over the long run."
+    },
+    {
+      "id": 1890,
+      "text": "Focus fuels results with deliberate action."
+    },
+    {
+      "id": 1891,
+      "text": "Focus fuels results through focus."
+    },
+    {
+      "id": 1892,
+      "text": "Focus fuels results with restraint."
+    },
+    {
+      "id": 1893,
+      "text": "Focus fuels results with balance."
+    },
+    {
+      "id": 1894,
+      "text": "Focus fuels results when repeated."
+    },
+    {
+      "id": 1895,
+      "text": "Focus fuels results through effort."
+    },
+    {
+      "id": 1896,
+      "text": "Focus fuels results when practiced."
+    },
+    {
+      "id": 1897,
+      "text": "Focus fuels results with patience."
+    },
+    {
+      "id": 1898,
+      "text": "Focus fuels results with intention daily."
+    },
+    {
+      "id": 1899,
+      "text": "Focus fuels results over weeks."
+    },
+    {
+      "id": 1900,
+      "text": "Focus fuels results over months."
+    },
+    {
+      "id": 1901,
+      "text": "Focus fuels results over years."
+    },
+    {
+      "id": 1902,
+      "text": "Focus fuels results with discipline daily."
+    },
+    {
+      "id": 1903,
+      "text": "Focus fuels results when prioritized."
+    },
+    {
+      "id": 1904,
+      "text": "Focus fuels results when refined."
+    },
+    {
+      "id": 1905,
+      "text": "Focus fuels results when maintained."
+    },
+    {
+      "id": 1906,
+      "text": "Focus fuels results with commitment."
+    },
+    {
+      "id": 1907,
+      "text": "Focus fuels results with thoughtful action."
+    },
+    {
+      "id": 1908,
+      "text": "Focus fuels results with clarity of purpose."
+    },
+    {
+      "id": 1909,
+      "text": "Focus fuels results without distraction."
+    },
+    {
+      "id": 1910,
+      "text": "Focus fuels results with steady discipline."
+    },
+    {
+      "id": 1911,
+      "text": "Focus fuels results with self-trust."
+    },
+    {
+      "id": 1912,
+      "text": "Effort builds resilience today."
+    },
+    {
+      "id": 1913,
+      "text": "Effort builds resilience over time."
+    },
+    {
+      "id": 1914,
+      "text": "Effort builds resilience when it matters."
+    },
+    {
+      "id": 1915,
+      "text": "Effort builds resilience in unexpected ways."
+    },
+    {
+      "id": 1916,
+      "text": "Effort builds resilience more than you expect."
+    },
+    {
+      "id": 1917,
+      "text": "Effort builds resilience sooner than planned."
+    },
+    {
+      "id": 1918,
+      "text": "Effort builds resilience with practice."
+    },
+    {
+      "id": 1919,
+      "text": "Effort builds resilience without shortcuts."
+    },
+    {
+      "id": 1920,
+      "text": "Effort builds resilience when you stay consistent."
+    },
+    {
+      "id": 1921,
+      "text": "Effort builds resilience when you stay patient."
+    },
+    {
+      "id": 1922,
+      "text": "Effort builds resilience with clarity."
+    },
+    {
+      "id": 1923,
+      "text": "Effort builds resilience with intention."
+    },
+    {
+      "id": 1924,
+      "text": "Effort builds resilience through discipline."
+    },
+    {
+      "id": 1925,
+      "text": "Effort builds resilience when you least expect it."
+    },
+    {
+      "id": 1926,
+      "text": "Effort builds resilience when you stay focused."
+    },
+    {
+      "id": 1927,
+      "text": "Effort builds resilience with steady effort."
+    },
+    {
+      "id": 1928,
+      "text": "Effort builds resilience without rush."
+    },
+    {
+      "id": 1929,
+      "text": "Effort builds resilience through learning."
+    },
+    {
+      "id": 1930,
+      "text": "Effort builds resilience when you commit."
+    },
+    {
+      "id": 1931,
+      "text": "Effort builds resilience with calm confidence."
+    },
+    {
+      "id": 1932,
+      "text": "Effort builds resilience step by step."
+    },
+    {
+      "id": 1933,
+      "text": "Effort builds resilience with repetition."
+    },
+    {
+      "id": 1934,
+      "text": "Effort builds resilience when aligned."
+    },
+    {
+      "id": 1935,
+      "text": "Effort builds resilience through consistency."
+    },
+    {
+      "id": 1936,
+      "text": "Effort builds resilience with awareness."
+    },
+    {
+      "id": 1937,
+      "text": "Effort builds resilience when simplified."
+    },
+    {
+      "id": 1938,
+      "text": "Effort builds resilience over the long run."
+    },
+    {
+      "id": 1939,
+      "text": "Effort builds resilience with deliberate action."
+    },
+    {
+      "id": 1940,
+      "text": "Effort builds resilience through focus."
+    },
+    {
+      "id": 1941,
+      "text": "Effort builds resilience with restraint."
+    },
+    {
+      "id": 1942,
+      "text": "Effort builds resilience with balance."
+    },
+    {
+      "id": 1943,
+      "text": "Effort builds resilience when repeated."
+    },
+    {
+      "id": 1944,
+      "text": "Effort builds resilience through effort."
+    },
+    {
+      "id": 1945,
+      "text": "Effort builds resilience when practiced."
+    },
+    {
+      "id": 1946,
+      "text": "Effort builds resilience with patience."
+    },
+    {
+      "id": 1947,
+      "text": "Effort builds resilience with intention daily."
+    },
+    {
+      "id": 1948,
+      "text": "Effort builds resilience over weeks."
+    },
+    {
+      "id": 1949,
+      "text": "Effort builds resilience over months."
+    },
+    {
+      "id": 1950,
+      "text": "Effort builds resilience over years."
+    },
+    {
+      "id": 1951,
+      "text": "Effort builds resilience with discipline daily."
+    },
+    {
+      "id": 1952,
+      "text": "Effort builds resilience when prioritized."
+    },
+    {
+      "id": 1953,
+      "text": "Effort builds resilience when refined."
+    },
+    {
+      "id": 1954,
+      "text": "Effort builds resilience when maintained."
+    },
+    {
+      "id": 1955,
+      "text": "Effort builds resilience with commitment."
+    },
+    {
+      "id": 1956,
+      "text": "Effort builds resilience with thoughtful action."
+    },
+    {
+      "id": 1957,
+      "text": "Effort builds resilience with clarity of purpose."
+    },
+    {
+      "id": 1958,
+      "text": "Effort builds resilience without distraction."
+    },
+    {
+      "id": 1959,
+      "text": "Effort builds resilience with steady discipline."
+    },
+    {
+      "id": 1960,
+      "text": "Effort builds resilience with self-trust."
+    }
+  ]
+}

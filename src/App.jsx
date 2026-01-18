@@ -1,7 +1,9 @@
+import Cookie from "./components/Cookie/Cookie";
+
 function App() {
   return (
     <>
-      <div className="text-center">Fortune Cookie</div>
+      <Cookie />
     </>
   );
 }
