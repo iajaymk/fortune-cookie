@@ -24,7 +24,7 @@ const Cookie = () => {
           />
           <img
             src={FortuneCookieRightImg}
-            alt="Fortune cookie image"
+            alt="Fortune cookie image "
             className={
               cookieCracked ? "rotate-300 translate-x-20 translate-y-10" : ""
             }
